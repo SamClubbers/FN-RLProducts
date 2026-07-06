@@ -47,7 +47,7 @@
 |<img width="80" height="80" alt="Body_Darkcar_TThumbnail" src="https://github.com/user-attachments/assets/b8243e74-8168-4ccb-8f77-ebdc7930e7c1" />| Batmobile (2016)<br><sub>Hitbox: Plank</sub>| Body_Darkcar
 |<img width="80" height="80" alt="body_diggy_TThumbnail" src="https://github.com/user-attachments/assets/6b301086-cc34-4bab-ac96-c882eaaa0818" />| MR11<br><sub>Hitbox: Dominus</sub>| Body_Diggy
 |<img width="80" height="80" alt="Body_Doggy_TThumbnail" src="https://github.com/user-attachments/assets/c79aded5-f65d-4926-8d69-92c78ab8e642" />| Gazella GT<br><sub>Hitbox: Dominus</sub>| Body_Doggy
-|<img width="80" height="80" alt="Body_DROF_TThumbnail" src="https://github.com/user-attachments/assets/6ac8f6ff-0b3e-4106-9499-3a97d3d7a4cf" />| Ford F-150 RLE<br><sub>Hitbox: Octane</sub>| Body_DROF
+|<img width="80" height="80" alt="Body_DROF_TThumbnail" src="https://github.com/user-attachments/assets/57bc0eed-5a9a-4700-8192-d638dce4a9e5" />| Ford F-150 RLE<br><sub>Hitbox: Octane</sub>| Body_DROF
 |<img width="80" height="80" alt="Body_Droftwo_TThumbnail" src="https://github.com/user-attachments/assets/49749be3-71b4-4c5e-81b1-6cc334945fc3" />| NASCAR Ford Mustang<br><sub>Hitbox: Dominus</sub>| Body_Droftwo
 |<img width="80" height="80" alt="Body_Dub_T1_TThumbnail" src="https://github.com/user-attachments/assets/7e48433f-9c41-4ef6-b024-9b42b4617113" />| Volkswagen Golf GTI<br><sub>Hitbox: Octane</sub>| Body_Dub_T1
 |<img width="80" height="80" alt="Body_Dub_T2_TThumbnail" src="https://github.com/user-attachments/assets/6eb47394-ac5b-4d21-ba90-ad1dd5c7a102" />| Volkswagen Golf GTI RLE<br><sub>Hitbox: Octane</sub>| Body_Dub_T2
@@ -125,7 +125,7 @@
 |<img width="80" height="80" alt="body_Mitty_TThumbnail" src="https://github.com/user-attachments/assets/0b7be0fa-ab50-4538-9020-0d3a5c7144bb" />| Komodo<br><sub>Hitbox: Breakout</sub>| Body_Mitty
 |<img width="80" height="80" alt="Body_MoonFlax_Sportscar_TThumbnail" src="https://github.com/user-attachments/assets/433f2a04-4041-4fe3-9085-c6b84d538e69" />| Lockjaw<br><sub>Hitbox: Dominus</sub>| Body_MoonFlax_Sportscar
 |<img width="80" height="80" alt="body_moonflax_suv_TThumbnail" src="https://github.com/user-attachments/assets/c8dcfec1-d234-4bba-b325-d1f986108f58" />| Behemoth<br><sub>Hitbox: Merc</sub>| Body_MoonFlax_SUV
-|<img width="80" height="80" alt="Body_MSG_TThumbnail" src="https://github.com/user-attachments/assets/bfffe467-3e08-493d-8e80-c10164b5c7d4" />| Ford Shelby GT350R RLE<br><sub>Hitbox: Dominus</sub>| Body_MSG
+|<img width="80" height="80" alt="Body_MSG_TThumbnail" src="https://github.com/user-attachments/assets/70fd9a31-d187-4b7a-8c91-b2b034f8c306" />| Ford Shelby GT350R RLE<br><sub>Hitbox: Dominus</sub>| Body_MSG
 |<img width="80" height="80" alt="Body_Mudpie_TThumbnail" src="https://github.com/user-attachments/assets/b21903fe-b6da-42f7-b881-b2ce67934c5e" />| Jeep Rubicon<br><sub>Hitbox: Octane</sub>| Body_Mudpie
 |<img width="80" height="80" alt="Body_Muffin_TThumbnail" src="https://github.com/user-attachments/assets/428180f6-ffe5-434a-b629-e8f5655b365a" />| Samus' Spaceship (NINTENDO EXCLUSIVE)<br><sub>Hitbox: Dominus</sub>| Body_Muffin
 |<img width="80" height="80" alt="Body_Multigrain_TThumbnail" src="https://github.com/user-attachments/assets/d640c8c8-a2b6-4016-ba8e-4dffe63e2e88" />| Imperator DT5<br><sub>Hitbox: Dominus</sub>| Body_Multigrain
@@ -141,7 +141,7 @@
 |<img width="80" height="80" alt="Body_Numb_TThumbnail" src="https://github.com/user-attachments/assets/7816d788-75de-4710-9f70-7fc232cc7519" />| Aston Martin Valhalla<br><sub>Hitbox: Breakout</sub>| Body_Numb
 |<img width="80" height="80" alt="Body_Number6_TThumbnail" src="https://github.com/user-attachments/assets/10b88a16-6e87-4a4b-af66-e93e6a031cce" />| Proteus<br><sub>Hitbox: Octane</sub>| Body_Number6
 |<img width="80" height="80" alt="Body_O2_TThumbnail" src="https://github.com/user-attachments/assets/e290aeb3-38da-48f8-b5a9-553e2f5e7d77" />| Octane ZSR<br><sub>Hitbox: Octane</sub>| Body_O2
-|<img width="80" height="80" alt="Body_Oblong_TThumbnail" src="https://github.com/user-attachments/assets/34bddec1-f1c3-4eb6-a704-98d66f8b4809" />| Lamborghini Huracan STO<br><sub>Hitbox: Dominus</sub>| Body_Oblong
+|<img width="80" height="80" alt="Body_Oblong_TThumbnail" src="https://github.com/user-attachments/assets/1c980076-c82e-4a64-aa96-cacc71791f96" />| Lamborghini Huracan STO<br><sub>Hitbox: Dominus</sub>| Body_Oblong
 |<img width="80" height="80" alt="Body_Octane_TThumbnail" src="https://github.com/user-attachments/assets/63ce5003-26a8-43d9-a187-0b721036bedc" />| Octane<br><sub>Hitbox: Octane</sub>| Body_Octane
 |<img width="80" height="80" alt="body_ODB_TThumbnail" src="https://github.com/user-attachments/assets/77e412b2-c152-4d86-9078-da98aea08c39" />| Admiral<br><sub>Hitbox: Dominus</sub>| Body_ODB
 |<img width="80" height="80" alt="Body_Oramac_TThumbnail" src="https://github.com/user-attachments/assets/6e8ed2dd-abdc-4454-b7f0-0e3565a2d436" />| NASCAR Chevrolet<br><sub>Hitbox: Dominus</sub>| Body_Oramac
