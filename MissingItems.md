@@ -41,7 +41,7 @@
 |<img width="80" height="80" alt="Body_Durian_tier3_TThumbnail" src="https://github.com/user-attachments/assets/19f4a1fc-f360-4763-b538-7dc198e3c17f" />| Chikara GXT | - 7 Decals
 |<img width="80" height="80" alt="Body_TagTiger_TThumbnail" src="https://github.com/user-attachments/assets/5a4aac4e-45e8-4de8-b076-f6323be8e19b" />| Chrysler Pacifica | **Completed!**
 |<img width="80" height="80" alt="body_jekyll_TThumbnail" src="https://github.com/user-attachments/assets/6be85cc0-7514-4434-a20f-353619dfe942" />| Corlay | **Completed!**
-|<img width="80" height="80" alt="Body_Fracture_TThumbnail" src="https://github.com/user-attachments/assets/9855768e-c2fe-44d1-a733-d84482a23b27" />| Cybertruck | **Completed!**
+|<img width="80" height="80" alt="Body_Future_TThumbnail" src="https://github.com/user-attachments/assets/f346df3a-099f-4478-a9f9-8840da1755c4" />| Cybertruck | **Completed!**
 |<img width="80" height="80" alt="Body_Squash_TThumbnail" src="https://github.com/user-attachments/assets/d1aa1557-240f-4da9-abd4-f0343f9ce9a4" />| Cyclone | - 3 Decals
 |<img width="80" height="80" alt="Body_Lawrence_TThumbnail" src="https://github.com/user-attachments/assets/b1945eeb-2b34-4294-bee6-b116551b58d2" />| Defender D7X-R | **Completed!**
 |<img width="80" height="80" alt="Body_GreyCar_TThumbnail" src="https://github.com/user-attachments/assets/3b42548a-850a-481a-8fa7-2c141bce9a21" />| DeLorean Time Machine | **Completed!**
