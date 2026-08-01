@@ -103,7 +103,7 @@
 |<img width="80" height="80" alt="Body_SandScreen_TThumbnail" src="https://github.com/user-attachments/assets/8d2ae5a6-04d9-41d4-981c-17cba6193b3b" />| Jeep Wrangler | **Completed!**
 |<img width="80" height="80" alt="Body_Maple_TThumbnail" src="https://github.com/user-attachments/assets/b6897b33-930f-408b-b888-e60b50808add" />| Jurassic Jeep Wrangler | **Completed!**
 |<img width="80" height="80" alt="Body_Sourdough_TThumbnail" src="https://github.com/user-attachments/assets/4a755216-3623-488d-8a1d-bef1d43501a6" />| Jäger 619 | **Completed!**
-|<img width="80" height="80" alt="Body_Feline_TThumbnail" src="https://github.com/user-attachments/assets/4c360a1e-356b-4a65-8d5c-22061e8943c5" />| K.I.T.T. | - 1 Boost
+|<img width="80" height="80" alt="Body_Feline_TThumbnail" src="https://github.com/user-attachments/assets/4c360a1e-356b-4a65-8d5c-22061e8943c5" />| K.I.T.T. | **Completed!**
 |<img width="80" height="80" alt="body_Mitty_TThumbnail" src="https://github.com/user-attachments/assets/0b7be0fa-ab50-4538-9020-0d3a5c7144bb" />| Komodo | - 3 Decals
 |<img width="80" height="80" alt="body_rage_TThumbnail" src="https://github.com/user-attachments/assets/1da39a60-b467-4ec0-bdcb-57beb12fbc2d" />| Lamborghini Countach LPI 800-4 | **Completed!**
 |<img width="80" height="80" alt="Body_Oblong_TThumbnail" src="https://github.com/user-attachments/assets/1c980076-c82e-4a64-aa96-cacc71791f96" />| Lamborghini Huracan STO | **Completed!**
