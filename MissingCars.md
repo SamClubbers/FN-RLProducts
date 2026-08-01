@@ -1,7 +1,7 @@
 ## RL Cars Not Yet in FN
 
 - This is a list tracking every car that hasn’t yet transferred from Rocket League to Fortnite
-- There are currently 97 cars that have not transferred yet (72, excluding tier variants)
+- There are currently 96 cars that have not transferred yet (71, excluding tier variants)
 
 
 <details>
@@ -9,7 +9,6 @@
 
 | Icon | Body Name | Codename |
 |------|-----------|----------|
-|<img width="80" height="80" alt="body_heaven_TThumbnail" src="https://github.com/user-attachments/assets/6dfa9e8f-21e4-42f2-8e44-6c51c18357fc" />| 007's Aston Martin Valhalla | Body_Heaven
 |<img width="80" height="80" alt="Body_Darkcar_TThumbnail" src="https://github.com/user-attachments/assets/4281a1b9-0ec9-4a2b-87bb-7e685761c9d1" />| Batmobile (2016) | Body_Darkcar
 |<img width="80" height="80" alt="body_tomb_TThumbnail" src="https://github.com/user-attachments/assets/cb3e9268-f1a6-4f0e-8304-950aa22b2003" />| Batmobile 2022 | Body_Tomb
 |<img width="80" height="80" alt="Body_Bone_TThumbnail" src="https://github.com/user-attachments/assets/fe9978df-ff0a-4ead-835e-1d6b8143a880" />| Bone Shaker | Body_Bone
