@@ -13,7 +13,7 @@
 |<img width="80" height="80" alt="Body_Numb_TThumbnail" src="https://github.com/user-attachments/assets/7816d788-75de-4710-9f70-7fc232cc7519" />| Aston Martin Valhalla | **Completed!**
 |<img width="80" height="80" alt="body_Futura_TThumbnail" src="https://github.com/user-attachments/assets/b99fb393-862b-4c7f-98b5-ab8813d16b25" />| Azura | **Completed!**
 |<img width="80" height="80" alt="Body_Backfire_TThumbnail" src="https://github.com/user-attachments/assets/c600892f-4c83-4e87-bfd4-4e0e3d194610" />| Backfire | - 2 Decals
-|<img width="80" height="80" alt="Body_Eggplant_TThumbnail" src="https://github.com/user-attachments/assets/77bf0b88-8bad-43bc-84ce-e9c778ac1691" />| Batmobile (1989) | - 1 Trail
+|<img width="80" height="80" alt="Body_Eggplant_TThumbnail" src="https://github.com/user-attachments/assets/77bf0b88-8bad-43bc-84ce-e9c778ac1691" />| Batmobile (1989) | **Completed!**
 |<img width="80" height="80" alt="Body_Darkcar_TThumbnail" src="https://github.com/user-attachments/assets/b8243e74-8168-4ccb-8f77-ebdc7930e7c1" />| Batmobile (2016) | - 1 Boost<br>- 1 Trail
 |<img width="80" height="80" alt="body_tomb_TThumbnail" src="https://github.com/user-attachments/assets/a4987886-4840-49c9-9069-b7a7615e8995" />| Batmobile (2022) | **Completed!**
 |<img width="80" height="80" alt="Body_BB_TThumbnail" src="https://github.com/user-attachments/assets/7f3ff069-f520-4fe5-ab47-ca575beb5e56" />| Battle Bus | **Completed!**
