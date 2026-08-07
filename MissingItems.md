@@ -61,7 +61,7 @@
 |<img width="80" height="80" alt="Body_Endo_TThumbnail" src="https://github.com/user-attachments/assets/e2c3e4d6-b0f9-40a7-8007-150bd005e137" />| Endo | - 1 Decal
 |<img width="80" height="80" alt="Body_NeoBike_TThumbnail" src="https://github.com/user-attachments/assets/af32320a-fa3d-4af0-9477-27507c217641" />| Esper | - 1 Decal
 |<img width="80" height="80" alt="Body_Claw_TThumbnail" src="https://github.com/user-attachments/assets/695be590-ebd7-4bbd-8ac1-a5e7ecd16ca1" />| Fast & Furious Dodge Charger SRT Hellcat | **Completed!**
-|<img width="80" height="80" alt="Body_Challah_TThumbnail" src="https://github.com/user-attachments/assets/4806e901-b67b-484c-8104-1ab41493d4a2" />| Fast & Furious Dodge Charger | **Completed!**
+|<img width="80" height="80" alt="Body_Challah_TThumbnail" src="https://github.com/user-attachments/assets/4806e901-b67b-484c-8104-1ab41493d4a2" />| Fast & Furious Dodge Charger | - 1 Wheel
 |<img width="80" height="80" alt="body_pete_TThumbnail" src="https://github.com/user-attachments/assets/27c4d9df-88d8-44fe-88d7-b9437cdb779c" />| Fast & Furious Mazda RX-7 | **Completed!**
 |<img width="80" height="80" alt="Body_Melonpan_TThumbnail" src="https://github.com/user-attachments/assets/20bc963b-4f22-4438-a5d6-027d9ad56359" />| Fast & Furious Nissan Skyline | **Completed!**
 |<img width="80" height="80" alt="Body_Fuego_TThumbnail" src="https://github.com/user-attachments/assets/59ebe6fe-86c4-4d42-bc09-e14d4b8b4c00" />| Fast & Furious Pontiac Fiero | **Completed!**
