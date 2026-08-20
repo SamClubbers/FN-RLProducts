@@ -73,7 +73,7 @@
 |<img width="80" height="80" alt="body_fbrn_TThumbnail" src="https://github.com/user-attachments/assets/6ba62218-686e-46f4-9704-4e549f827f19" />| Ford Bronco Raptor RLE | **Completed!**
 |<img width="80" height="80" alt="Body_DROF_TThumbnail" src="https://github.com/user-attachments/assets/57bc0eed-5a9a-4700-8192-d638dce4a9e5" />| Ford F-150 RLE | **Completed!**
 |<img width="80" height="80" alt="Body_Alokin_TThumbnail" src="https://github.com/user-attachments/assets/029caca7-47ee-4279-9a7c-49c815cc6e80" />| Ford Mustang GTD | **Completed!**
-|<img width="80" height="80" alt="body_elm_TThumbnail" src="https://github.com/user-attachments/assets/dc1a3356-b683-47d0-8855-b4fc1e77766d" />| Ford Mustang Mach-E RLE | - Carbody<br>- 2 Decals<br> - 1 Wheel
+|<img width="80" height="80" alt="body_elm_TThumbnail" src="https://github.com/user-attachments/assets/dc1a3356-b683-47d0-8855-b4fc1e77766d" />| Ford Mustang Mach-E RLE | - Carbody<br>- 2 Decals<br>- 1 Boost<br>- 1 Wheel
 |<img width="80" height="80" alt="Body_MSG_TThumbnail" src="https://github.com/user-attachments/assets/70fd9a31-d187-4b7a-8c91-b2b034f8c306" />| Ford Shelby GT350R RLE | - Carbody<br>- 2 Decals<br> - 1 Wheel
 |<img width="80" height="80" alt="body_magnet_TThumbnail" src="https://github.com/user-attachments/assets/3774cd86-1cab-4d41-97ef-cfcc5b046945" />| Ford Shelby GT500 | **Completed!**
 |<img width="80" height="80" alt="Body_Fracture_TThumbnail" src="https://github.com/user-attachments/assets/d220122d-1931-4487-9790-9d8067818917" />| Formula 1 2021 | - 4 Decals
