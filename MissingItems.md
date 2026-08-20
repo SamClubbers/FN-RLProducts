@@ -5,7 +5,7 @@
 |<img width="80" height="80" alt="body_heaven_TThumbnail" src="https://github.com/user-attachments/assets/c2aa301a-d9cf-4b7c-808b-8920562ad5f9" />| 007's Aston Martin Valhalla | **Completed!**
 |<img width="80" height="80" alt="Body_AA_TThumbnail" src="https://github.com/user-attachments/assets/8b0f9f80-1f92-40fe-8369-95dc490b6356" />| Ace | **Completed!**
 |<img width="80" height="80" alt="body_ODB_TThumbnail" src="https://github.com/user-attachments/assets/77e412b2-c152-4d86-9078-da98aea08c39" />| Admiral | **Completed!**
-|<img width="80" height="80" alt="Body_Aftershock_TThumbnail" src="https://github.com/user-attachments/assets/a0ba3e2e-e3a1-481a-b99a-6b59036c68c8" />| Aftershock | - Carbody<br>- 10 Decals
+|<img width="80" height="80" alt="Body_Aftershock_TThumbnail" src="https://github.com/user-attachments/assets/a0ba3e2e-e3a1-481a-b99a-6b59036c68c8" />| Aftershock | - 10 Decals
 |<img width="80" height="80" alt="Body_Focaccia_TThumbnail" src="https://github.com/user-attachments/assets/312fee1b-23e9-479b-aea5-2950ee2188fc" />| Animus GP | - 2 Decals
 |<img width="80" height="80" alt="body_Enspier_Tier1_TThumbnail" src="https://github.com/user-attachments/assets/54b9546c-6286-4d3e-8df2-c47cf06175ba" />| Artemis | **Completed!**
 |<img width="80" height="80" alt="body_Enspier_Tier2_TThumbnail" src="https://github.com/user-attachments/assets/3fbd9aaf-dcb6-440b-9621-6cb08f09a7a4" />| Artemis G1 | - 6 Decals
@@ -26,7 +26,7 @@
 |<img width="80" height="80" alt="body_Chrisp_TThumbnail" src="https://github.com/user-attachments/assets/a0bdb8e9-7e1c-459f-9b60-88ff43b51659" />| BMW M3 (E30) | **Completed!**
 |<img width="80" height="80" alt="Body_Topple_TThumbnail" src="https://github.com/user-attachments/assets/7cf172f9-5c89-4ddc-9bd0-134ebfe4eb3f" />| BMW M4 GT3 EVO | **Completed!**
 |<img width="80" height="80" alt="Body_Bone_TThumbnail" src="https://github.com/user-attachments/assets/f20c5323-47fb-4a82-b3bf-56175f1309ad" />| Bone Shaker | - Carbody<br>- 6 Decals
-|<img width="80" height="80" alt="Body_Force_TThumbnail" src="https://github.com/user-attachments/assets/df51e59a-aeee-434f-9aca-944ebd513f93" />| Breakout | - 83 Decals
+|<img width="80" height="80" alt="Body_Force_TThumbnail" src="https://github.com/user-attachments/assets/df51e59a-aeee-434f-9aca-944ebd513f93" />| Breakout | - 21 Decals
 |<img width="80" height="80" alt="Body_CarCar_TThumbnail" src="https://github.com/user-attachments/assets/8c5aa1f1-b869-4f42-9ce2-8aebbb1a38c7" />| Breakout Type-S | - Carbody<br>- 11 Decals
 |<img width="80" height="80" alt="body_crikey_TThumbnail" src="https://github.com/user-attachments/assets/f887c231-36da-48c9-831e-e160d196c3e6" />| Breakout X | **Completed!**
 |<img width="80" height="80" alt="Body_Ten_TThumbnail" src="https://github.com/user-attachments/assets/1a983038-25d7-4a44-b5b4-79ae89140cfe" />| Bugatti Centodieci | **Completed!**
@@ -50,7 +50,7 @@
 |<img width="80" height="80" alt="Body_Ramen_TThumbnail" src="https://github.com/user-attachments/assets/e80f506d-dd23-4cc5-bba4-1c91ec2dc48f" />| Dingo | - 13 Decals
 |<img width="80" height="80" alt="body_edison_TThumbnail" src="https://github.com/user-attachments/assets/58ed7355-dd14-4956-89f5-58948cd0e248" />| Dodge Charger Daytona Scat Pack | **Completed!**
 |<img width="80" height="80" alt="body_FancyFlake_TThumbnail" src="https://github.com/user-attachments/assets/0c356c9d-7e64-4d26-ac12-c032de775fa7" />| Dodge Viper GTS-R | **Completed!**
-|<img width="80" height="80" alt="Body_MuscleCar_TThumbnail" src="https://github.com/user-attachments/assets/5c626d08-f7bd-4c3f-95f3-b3bc9168144a" />| Dominus | - 354 Decals
+|<img width="80" height="80" alt="Body_MuscleCar_TThumbnail" src="https://github.com/user-attachments/assets/5c626d08-f7bd-4c3f-95f3-b3bc9168144a" />| Dominus | - 250 Decals
 |<img width="80" height="80" alt="Body_MuscleCar2_TThumbnail" src="https://github.com/user-attachments/assets/d23de0c8-43f0-4bae-b13b-f12c2011cea7" />| Dominus GT | - 9 Decals
 |<img width="80" height="80" alt="body_musclecar_SE_Glow_TThumbnail" src="https://github.com/user-attachments/assets/a1695233-4399-4630-b5f7-1a0a46d2e43c" />| Dominus: Neon Trim | - Carbody
 |<img width="80" height="80" alt="Body_Slime_TThumbnail" src="https://github.com/user-attachments/assets/4547ef87-979e-4454-868f-c38cbb56b70c" />| Ecto-1 | - Carbody<br>- 2 Decals
@@ -61,13 +61,13 @@
 |<img width="80" height="80" alt="Body_Endo_TThumbnail" src="https://github.com/user-attachments/assets/e2c3e4d6-b0f9-40a7-8007-150bd005e137" />| Endo | - 1 Decal
 |<img width="80" height="80" alt="Body_NeoBike_TThumbnail" src="https://github.com/user-attachments/assets/af32320a-fa3d-4af0-9477-27507c217641" />| Esper | - 1 Decal
 |<img width="80" height="80" alt="Body_Claw_TThumbnail" src="https://github.com/user-attachments/assets/695be590-ebd7-4bbd-8ac1-a5e7ecd16ca1" />| Fast & Furious Dodge Charger SRT Hellcat | **Completed!**
-|<img width="80" height="80" alt="Body_Challah_TThumbnail" src="https://github.com/user-attachments/assets/4806e901-b67b-484c-8104-1ab41493d4a2" />| Fast & Furious Dodge Charger | - 1 Wheel
+|<img width="80" height="80" alt="Body_Challah_TThumbnail" src="https://github.com/user-attachments/assets/4806e901-b67b-484c-8104-1ab41493d4a2" />| Fast & Furious Dodge Charger | **Completed!**
 |<img width="80" height="80" alt="body_pete_TThumbnail" src="https://github.com/user-attachments/assets/27c4d9df-88d8-44fe-88d7-b9437cdb779c" />| Fast & Furious Mazda RX-7 | **Completed!**
 |<img width="80" height="80" alt="Body_Melonpan_TThumbnail" src="https://github.com/user-attachments/assets/20bc963b-4f22-4438-a5d6-027d9ad56359" />| Fast & Furious Nissan Skyline | **Completed!**
 |<img width="80" height="80" alt="Body_Fuego_TThumbnail" src="https://github.com/user-attachments/assets/59ebe6fe-86c4-4d42-bc09-e14d4b8b4c00" />| Fast & Furious Pontiac Fiero | **Completed!**
 |<img width="80" height="80" alt="Body_Daggy_TThumbnail" src="https://github.com/user-attachments/assets/65e70cbf-f5ba-4a2b-af93-9e7007ae0bee" />| Fast 4WD | - Carbody<br>- 4 Decals
 |<img width="80" height="80" alt="body_ZRF_TThumbnail" src="https://github.com/user-attachments/assets/156495f4-cbf2-48be-a465-36f1c71fbb0f" />| Fennec ZR-F | **Completed!**
-|<img width="80" height="80" alt="Body_Grain_TThumbnail" src="https://github.com/user-attachments/assets/447a6397-8fbd-4250-8414-3a6ab75b3503" />| Fennec | - 132 Decals
+|<img width="80" height="80" alt="Body_Grain_TThumbnail" src="https://github.com/user-attachments/assets/447a6397-8fbd-4250-8414-3a6ab75b3503" />| Fennec | - 68 Decals
 |<img width="80" height="80" alt="Body_Rafael_TThumbnail" src="https://github.com/user-attachments/assets/b0b5e1bc-6c9b-4c03-bfcc-a9ca87ed00d0" />| Ferrari 296 GTB | **Completed!**
 |<img width="80" height="80" alt="body_Garage_TThumbnail" src="https://github.com/user-attachments/assets/88b61cb5-0544-4ccd-9cd5-373ffff350cd" />| Ferrari F40 | **Completed!**
 |<img width="80" height="80" alt="body_fbrn_TThumbnail" src="https://github.com/user-attachments/assets/6ba62218-686e-46f4-9704-4e549f827f19" />| Ford Bronco Raptor RLE | **Completed!**
@@ -91,8 +91,8 @@
 |<img width="80" height="80" alt="Body_Spike_TThumbnail" src="https://github.com/user-attachments/assets/9b8b64c2-4805-488e-b7a1-50ad77b47a59" />| Havoc | **Completed!**
 |<img width="80" height="80" alt="body_wedding_TThumbnail" src="https://github.com/user-attachments/assets/3abaf662-d8c4-42eb-995c-f8be7979e3e4" />| Hearse | **Completed!**
 |<img width="80" height="80" alt="Body_Sprinkle_TThumbnail" src="https://github.com/user-attachments/assets/22a0da72-6d89-4779-8f70-7956dc478221" />| Homer's Car | **Completed!**
-|<img width="80" height="80" alt="body_hic_t1_TThumbnail" src="https://github.com/user-attachments/assets/a3d56586-7b68-4950-8f03-ef4a45b485ed" />| Honda Civic Type R | - Carbody<br>- 5 Decals
-|<img width="80" height="80" alt="body_hic_t2_TThumbnail" src="https://github.com/user-attachments/assets/e1ca095b-cef5-49d4-ac16-c19326079486" />| Honda Civic Type R-LE | - Carbody<br>- 10 Decals
+|<img width="80" height="80" alt="body_hic_t1_TThumbnail" src="https://github.com/user-attachments/assets/a3d56586-7b68-4950-8f03-ef4a45b485ed" />| Honda Civic Type R | - 5 Decals
+|<img width="80" height="80" alt="body_hic_t2_TThumbnail" src="https://github.com/user-attachments/assets/e1ca095b-cef5-49d4-ac16-c19326079486" />| Honda Civic Type R-LE | - 10 Decals
 |<img width="80" height="80" alt="Body_Torment_TThumbnail" src="https://github.com/user-attachments/assets/618568bc-f7d0-4e36-8554-5c2d9bcee7e6" />| Hotshot | - 6 Decals
 |<img width="80" height="80" alt="body_TurtleModem_TThumbnail" src="https://github.com/user-attachments/assets/706a20f0-0011-40a7-bc31-b53cc9cb08c9" />| Hyundai Ioniq 6 | **Completed!**
 |<img width="80" height="80" alt="Body_Charged_TThumbnail" src="https://github.com/user-attachments/assets/38444cf9-3d5d-481c-964b-cdc6e8c7e9d3" />| Ice Charger | **Completed!**
@@ -111,7 +111,7 @@
 |<img width="80" height="80" alt="body_wurst_TThumbnail" src="https://github.com/user-attachments/assets/5e7f1ee0-0fb0-4fb5-8260-2d43d0edeb3a" />| Lamborghini Urus SE | **Completed!**
 |<img width="80" height="80" alt="Body_Pixie_TThumbnail" src="https://github.com/user-attachments/assets/cead42b3-c161-41be-8aef-2a3525bc7023" />| Lightning McQueen | **Completed!**
 |<img width="80" height="80" alt="Body_MoonFlax_Sportscar_TThumbnail" src="https://github.com/user-attachments/assets/433f2a04-4041-4fe3-9085-c6b84d538e69" />| Lockjaw | **Completed!**
-|<img width="80" height="80" alt="body_lux_TThumbnail" src="https://github.com/user-attachments/assets/95f956dc-4456-4065-b205-b71bb57a02e5" />| Maestro | - Carbody<br>- 1 Decal<br>- 1 Wheel
+|<img width="80" height="80" alt="body_lux_TThumbnail" src="https://github.com/user-attachments/assets/95f956dc-4456-4065-b205-b71bb57a02e5" />| Maestro | - Carbody<br>- 1 Decal
 |<img width="80" height="80" alt="body_hydeT1_TThumbnail" src="https://github.com/user-attachments/assets/6ec08fe3-5357-40b9-b858-206e012685f8" />| Magnifique | **Completed!**
 |<img width="80" height="80" alt="body_HydeT2_TThumbnail" src="https://github.com/user-attachments/assets/33d4b35f-cf25-4989-8241-03da484bc7e9" />| Magnifique GXT | **Completed!**
 |<img width="80" height="80" alt="body_keanu_TThumbnail" src="https://github.com/user-attachments/assets/27c63ba7-d1d2-4e9e-920d-c5af64b51150" />| Mako | **Completed!**
@@ -150,12 +150,12 @@
 |<img width="80" height="80" alt="body_akuma_T1_TThumbnail" src="https://github.com/user-attachments/assets/36fbe44d-894f-4dc7-b7fd-ab7767ed993d" />| Nissan Fairlady Z | **Completed!**
 |<img width="80" height="80" alt="body_akuma_T2_TThumbnail" src="https://github.com/user-attachments/assets/1d160a45-8a22-45e1-96ee-fdc34113ec33" />| Nissan Fairlady Z RLE | **Completed!**
 |<img width="80" height="80" alt="Body_Seasalt_T1_TThumbnail" src="https://github.com/user-attachments/assets/910140a9-7b5e-4de7-94cf-1cbbc2abd0b0" />| Nissan Silvia | **Completed!**
-|<img width="80" height="80" alt="Body_Seasalt_T2_TThumbnail" src="https://github.com/user-attachments/assets/1b278dc7-6965-4d24-ab72-52accd4e493c" />| Nissan Silvia RLE | - 4 Decals
+|<img width="80" height="80" alt="Body_Seasalt_T2_TThumbnail" src="https://github.com/user-attachments/assets/1b278dc7-6965-4d24-ab72-52accd4e493c" />| Nissan Silvia RLE | **Completed!**
 |<img width="80" height="80" alt="Body_Nerd_TThumbnail" src="https://github.com/user-attachments/assets/5f5f6a41-4d31-435a-b5fe-3ae315932884" />| Nissan Skyline R32 | **Completed!**
 |<img width="80" height="80" alt="body_sassy_TThumbnail" src="https://github.com/user-attachments/assets/db2cdb8d-8541-4625-af9a-29ac4068cd19" />| Nissan Z Performance | - 1 Decals
 |<img width="80" height="80" alt="body_Maui_TThumbnail" src="https://github.com/user-attachments/assets/20b81b48-69f7-4ee1-a75f-96a7e05e8ffa" />| Nomad | - 10 Decals
 |<img width="80" height="80" alt="body_Maui_t2_TThumbnail" src="https://github.com/user-attachments/assets/7b7ba40c-8f7c-4882-a143-1ac1540c1075" />| Nomad GXT | - Carbody<br>- 12 Decals
-|<img width="80" height="80" alt="Body_Octane_TThumbnail" src="https://github.com/user-attachments/assets/63ce5003-26a8-43d9-a187-0b721036bedc" />| Octane | - 155 Decals
+|<img width="80" height="80" alt="Body_Octane_TThumbnail" src="https://github.com/user-attachments/assets/63ce5003-26a8-43d9-a187-0b721036bedc" />| Octane | - 64 Decals
 |<img width="80" height="80" alt="Body_O2_TThumbnail" src="https://github.com/user-attachments/assets/e290aeb3-38da-48f8-b5a9-553e2f5e7d77" />| Octane ZSR | - 5 Decals
 |<img width="80" height="80" alt="Body_Rattrap_TThumbnail" src="https://github.com/user-attachments/assets/b68bd510-4798-4d82-902a-34239e24bd30" />| Outlaw | - 4 Decals
 |<img width="80" height="80" alt="Body_Rattrap_Tier2_TThumbnail" src="https://github.com/user-attachments/assets/62dde231-8503-4ebc-92d4-0f351b0e7cb8" />| Outlaw GXT | - 14 Decals
@@ -206,7 +206,7 @@
 |<img width="80" height="80" alt="Body_Brick_TThumbnail" src="https://github.com/user-attachments/assets/2f0e783f-5e1e-416e-a9ea-09df8c110bca" />| Tygris | **Completed!**
 |<img width="80" height="80" alt="body_raddish_tier1_TThumbnail" src="https://github.com/user-attachments/assets/f4d63b67-4bf4-4743-b89c-583711f6a6c1" />| Tyranno | - 10 Decals
 |<img width="80" height="80" alt="body_Raddish_tier2_TThumbnail" src="https://github.com/user-attachments/assets/1870e9bb-921c-41a2-bfd9-bf916d8022a5" />| Tyranno GXT | - 14 Decals
-|<img width="80" height="80" alt="Body_Venom_TThumbnail" src="https://github.com/user-attachments/assets/ce713bb1-88ce-4fee-b2d9-cfd2d5feaae3" />| Venom | - 12 Decals
+|<img width="80" height="80" alt="Body_Venom_TThumbnail" src="https://github.com/user-attachments/assets/ce713bb1-88ce-4fee-b2d9-cfd2d5feaae3" />| Venom | - 9 Decals
 |<img width="80" height="80" alt="Body_Pickle_TThumbnail" src="https://github.com/user-attachments/assets/6caa0845-8aa1-48f5-8522-aae4ffebfd78" />| Void Burn | **Completed!**
 |<img width="80" height="80" alt="Body_Dub_T1_TThumbnail" src="https://github.com/user-attachments/assets/7e48433f-9c41-4ef6-b024-9b42b4617113" />| Volkswagen Golf GTI | - Carbody<br>- 7 Decals
 |<img width="80" height="80" alt="Body_Dub_T2_TThumbnail" src="https://github.com/user-attachments/assets/6eb47394-ac5b-4d21-ba90-ad1dd5c7a102" />| Volkswagen Golf GTI RLE | - Carbody<br>- 7 Decals
