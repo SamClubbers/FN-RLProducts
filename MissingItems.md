@@ -210,11 +210,11 @@
 |<img width="80" height="80" alt="Body_Pickle_TThumbnail" src="https://github.com/user-attachments/assets/6caa0845-8aa1-48f5-8522-aae4ffebfd78" />| Void Burn | **Completed!**
 |<img width="80" height="80" alt="Body_Dub_T1_TThumbnail" src="https://github.com/user-attachments/assets/7e48433f-9c41-4ef6-b024-9b42b4617113" />| Volkswagen Golf GTI | - Carbody<br>- 7 Decals
 |<img width="80" height="80" alt="Body_Dub_T2_TThumbnail" src="https://github.com/user-attachments/assets/6eb47394-ac5b-4d21-ba90-ad1dd5c7a102" />| Volkswagen Golf GTI RLE | - Carbody<br>- 7 Decals
-|<img width="80" height="80" alt="Body_Gilliam_TThumbnail" src="https://github.com/user-attachments/assets/1ef36f17-20e4-4e2c-809f-a3c7eeeca05c" />| Vulcan | - Carbody
+|<img width="80" height="80" alt="Body_Gilliam_TThumbnail" src="https://github.com/user-attachments/assets/1ef36f17-20e4-4e2c-809f-a3c7eeeca05c" />| Vulcan | **Completed!**
 |<img width="80" height="80" alt="Body_Levain_TThumbnail" src="https://github.com/user-attachments/assets/c700ff9c-6a0c-4f80-a70f-1ea809fd9190" />| Werewolf | **Completed!**
 |<img width="80" height="80" alt="body_whiplash_TThumbnail" src="https://github.com/user-attachments/assets/b4e6d2ba-d8d7-4504-9a6e-3f4a8796f2b7" />| Whiplash | - Carbody<br>- 4 Decals
-|<img width="80" height="80" alt="Body_Torch_TThumbnail" src="https://github.com/user-attachments/assets/93aae2ff-afc1-4ce1-ab5c-4757ba53ba3c" />| X-Devil | - Carbody<br>- 24 Decals
-|<img width="80" height="80" alt="Body_Torch2_TThumbnail" src="https://github.com/user-attachments/assets/bd147ed6-6b13-42c1-b816-e4dc494fb0c2" />| X-Devil MK2 | - Carbody<br>- 10 Decals
+|<img width="80" height="80" alt="Body_Torch_TThumbnail" src="https://github.com/user-attachments/assets/93aae2ff-afc1-4ce1-ab5c-4757ba53ba3c" />| X-Devil | - 24 Decals
+|<img width="80" height="80" alt="Body_Torch2_TThumbnail" src="https://github.com/user-attachments/assets/bd147ed6-6b13-42c1-b816-e4dc494fb0c2" />| X-Devil MK2 | - 10 Decals
 |<img width="80" height="80" alt="body_ruckus_TThumbnail" src="https://github.com/user-attachments/assets/0ff1d16c-2cad-44dc-b9ab-1b53a6dfc947" />| Xentari | **Completed!**
 |<img width="80" height="80" alt="body_sportytack_TThumbnail" src="https://github.com/user-attachments/assets/36793447-a2d8-420e-93ab-7a5b47db0a7e" />| Zefira | **Completed!**
 |<img width="80" height="80" alt="Body_Zippy_TThumbnail" src="https://github.com/user-attachments/assets/d1cdf6d8-64e7-4bef-acd5-4acde308407f" />| Zippy | **Completed!**
