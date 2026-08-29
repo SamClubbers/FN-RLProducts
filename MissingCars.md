@@ -1,7 +1,7 @@
 ## RL Cars Not Yet in FN
 
 - This is a list tracking every car that hasn’t yet transferred from Rocket League to Fortnite
-- There are currently 96 cars that have not transferred yet (71, excluding tier variants)
+- There are currently 94 cars that have not transferred yet (70, excluding tier variants)
 
 
 <details>
@@ -68,8 +68,6 @@
 |<img width="80" height="80" alt="Body_Melon_Tier_03_TThumbnail" src="https://github.com/user-attachments/assets/09cc7014-1083-417e-9eb7-3eb9c14e973d" />| Mudcat GXT | Body_Melon_Tier_03
 |<img width="80" height="80" alt="body_Norton_TThumbnail" src="https://github.com/user-attachments/assets/c944fb2e-6795-4c3d-b11b-a8ee5416df9d" />| Nexus | Body_Norton
 |<img width="80" height="80" alt="Body_Norton_Tier2_TThumbnail" src="https://github.com/user-attachments/assets/61440779-4140-4812-bb76-1b679427d340" />| Nexus SC | Body_Norton_Tier
-|<img width="80" height="80" alt="Body_Seasalt_T1_TThumbnail" src="https://github.com/user-attachments/assets/9d18e183-9fa2-431e-a4a8-d6ea4b9a9eae" />| Nissan Silvia | Body_Seasalt_T1
-|<img width="80" height="80" alt="Body_Seasalt_T2_TThumbnail" src="https://github.com/user-attachments/assets/9ca1b97e-994b-488e-94e4-7c191a20ae71" />| Nissan Silvia RLE | Body_Seasalt_T2
 |<img width="80" height="80" alt="body_Maui_TThumbnail" src="https://github.com/user-attachments/assets/1c23e5fb-bcb8-4100-b593-01a15ee7170a" />| Nomad | Body_Maui
 |<img width="80" height="80" alt="body_Maui_t2_TThumbnail" src="https://github.com/user-attachments/assets/a09c029e-ea02-49d7-b046-7d17b5f952fb" />| Nomad GXT | Body_Maui_T2
 |<img width="80" height="80" alt="Body_Rattrap_TThumbnail" src="https://github.com/user-attachments/assets/e2418cd6-b10c-4f90-86a2-ec3b0cc96718" />| Outlaw | Body_Rattrap
