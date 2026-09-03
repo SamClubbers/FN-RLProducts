@@ -195,7 +195,7 @@
 |<img width="80" height="80" alt="body_zaku_t2_TThumbnail" src="https://github.com/user-attachments/assets/f032e70a-d558-4c48-b021-f2915f916e60" />| Shokunin GXT | **Completed!**
 |<img width="80" height="80" alt="body_lime_TThumbnail" src="https://github.com/user-attachments/assets/9abddb0b-f8c4-42da-aa90-2e1aa80b9312" />| Stampede | **Completed!**
 |<img width="80" height="80" alt="Body_Import_TThumbnail" src="https://github.com/user-attachments/assets/2b3adebb-efb2-4810-95f2-96fc6e797f4c" />| Takumi | - 5 Decals
-|<img width="80" height="80" alt="Body_Takumi_II_TThumbnail" src="https://github.com/user-attachments/assets/d7fda347-c796-4619-b7f7-5e14195480e8" />| Takumi RX-T | - Carbody<br>- 13 Decals
+|<img width="80" height="80" alt="Body_Takumi_II_TThumbnail" src="https://github.com/user-attachments/assets/d7fda347-c796-4619-b7f7-5e14195480e8" />| Takumi RX-T | **Completed!**
 |<img width="80" height="80" alt="Body_Berry_TThumbnail" src="https://github.com/user-attachments/assets/0d5379e8-b0c0-490a-bd41-420f79393ffb" />| The Dark Knight's Tumbler | - 1 Boost<br>- 1 Trail
 |<img width="80" height="80" alt="body_hero_TThumbnail" src="https://github.com/user-attachments/assets/33e27867-c5a5-4991-b665-e01e56b49f04" />| The Incredibile | **Completed!**
 |<img width="80" height="80" alt="Body_Banjo_TThumbnail" src="https://github.com/user-attachments/assets/418fa88a-0fd0-4495-8d2e-4e1d5cdcdb30" />| The Mystery Machine | **Completed!**
