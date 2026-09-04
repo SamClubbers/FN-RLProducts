@@ -1,7 +1,7 @@
 ## RL Cars Not Yet in FN
 
 - This is a list tracking every car that hasn’t yet transferred from Rocket League to Fortnite
-- There are currently 94 cars that have not transferred yet (70, excluding tier variants)
+- There are currently 91 cars that have not transferred yet (68, excluding tier variants)
 
 
 <details>
@@ -72,8 +72,6 @@
 |<img width="80" height="80" alt="body_Maui_t2_TThumbnail" src="https://github.com/user-attachments/assets/a09c029e-ea02-49d7-b046-7d17b5f952fb" />| Nomad GXT | Body_Maui_T2
 |<img width="80" height="80" alt="Body_Rattrap_TThumbnail" src="https://github.com/user-attachments/assets/e2418cd6-b10c-4f90-86a2-ec3b0cc96718" />| Outlaw | Body_Rattrap
 |<img width="80" height="80" alt="Body_Rattrap_Tier2_TThumbnail" src="https://github.com/user-attachments/assets/653e19f7-1162-4c4d-b5be-2b3d5cc6f287" />| Outlaw GXT | Body_Rattrap_Tier2
-|<img width="80" height="80" alt="Body_Butter_T1_TThumbnail" src="https://github.com/user-attachments/assets/ffc11e4e-d563-42ad-b078-9616f171a9b6" />| Porsche 911 Turbo | Body_Butter_T1
-|<img width="80" height="80" alt="Body_Butter_T2_TThumbnail" src="https://github.com/user-attachments/assets/5d44af28-1d8f-4ab1-ad18-989add99e64d" />| Porsche 911 Turbo RLE | Body_Butter_T2
 |<img width="80" height="80" alt="Body_Skunkz_TThumbnail" src="https://github.com/user-attachments/assets/4bf30073-ab05-4fbb-8c1a-a4c6b178fa54" />| Primo | Body_Skunkz
 |<img width="80" height="80" alt="body_Unicorn_Tier1_TThumbnail" src="https://github.com/user-attachments/assets/bbc51e4c-b0db-4756-8d67-511ab4d761ba" />| R3MX | Body_Unicorn_Tier1
 |<img width="80" height="80" alt="body_unicorn_tier2_TThumbnail" src="https://github.com/user-attachments/assets/a2127f10-e49c-495c-b6ca-100d950e392f" />| R3MX GXT | Body_Unicorn_Tier2
@@ -113,7 +111,6 @@
 |<img width="80" height="80" alt="Body_Rhino2_TThumbnail" src="https://github.com/user-attachments/assets/8fcc968c-0c7c-487e-bcb1-f03ec569c3f2" />| Road Hog XL | Body_Rhino2
 |<img width="80" height="80" alt="Body_Scarab_TThumbnail" src="https://github.com/user-attachments/assets/efb146b4-1399-4f52-856c-e5472d5cc62b" />| Scarab | Body_Scarab
 |<img width="80" height="80" alt="Body_Chip_TThumbnail" src="https://github.com/user-attachments/assets/079ad262-37a1-45ed-b075-619801ce1429" />| Sentinel | Body_Chip
-|<img width="80" height="80" alt="Body_Takumi_II_TThumbnail" src="https://github.com/user-attachments/assets/9abd8164-7d40-4896-b214-b62d8120f157" />| Takumi RX-T | Body_Takumi_II
 |<img width="80" height="80" alt="Body_Cannonboy_TThumbnail" src="https://github.com/user-attachments/assets/b25d5504-13c7-43c7-b6da-9fb0b233e3e7" />| Triton | Body_Cannonboy
 |<img width="80" height="80" alt="Body_Venom_TThumbnail" src="https://github.com/user-attachments/assets/cd61b2e2-de1a-4ac6-a56d-b92532806b68" />| Venom | Body_Venom
 |<img width="80" height="80" alt="Body_Gilliam_TThumbnail" src="https://github.com/user-attachments/assets/0b8e0b46-0cef-4c28-9dc5-5097b74afc4f" />| Vulcan | Body_Gilliam
