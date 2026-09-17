@@ -1,7 +1,7 @@
 ## RL Cars Not Yet in FN
 
 - This is a list tracking every car that hasn’t yet transferred from Rocket League to Fortnite
-- There are currently 91 cars that have not transferred yet (68, excluding tier variants)
+- There are currently 90 cars that have not transferred yet (67, excluding tier variants)
 
 
 <details>
@@ -10,7 +10,6 @@
 | Icon | Body Name | Codename |
 |------|-----------|----------|
 |<img width="80" height="80" alt="Body_Darkcar_TThumbnail" src="https://github.com/user-attachments/assets/4281a1b9-0ec9-4a2b-87bb-7e685761c9d1" />| Batmobile (2016) | Body_Darkcar
-|<img width="80" height="80" alt="body_tomb_TThumbnail" src="https://github.com/user-attachments/assets/cb3e9268-f1a6-4f0e-8304-950aa22b2003" />| Batmobile 2022 | Body_Tomb
 |<img width="80" height="80" alt="Body_Bone_TThumbnail" src="https://github.com/user-attachments/assets/fe9978df-ff0a-4ead-835e-1d6b8143a880" />| Bone Shaker | Body_Bone
 |<img width="80" height="80" alt="Body_Ten_TThumbnail" src="https://github.com/user-attachments/assets/a11e853a-ff2c-40a8-bd69-5c21896c53a5" />| Bugatti Centodieci | Body_Ten
 |<img width="80" height="80" alt="Body_Trap_TThumbnail" src="https://github.com/user-attachments/assets/d7ffed70-1f8c-479b-81aa-cdd869c835a0" />| Bumblebee | Body_Trap
