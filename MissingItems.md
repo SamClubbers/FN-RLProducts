@@ -4,7 +4,7 @@
 |<img width="80" height="80" alt="body_quartz_TThumbnail" src="https://github.com/user-attachments/assets/94645002-2900-4609-81c5-47ebea6d676e" />| 007's Aston Martin DBS | **Completed!**
 |<img width="80" height="80" alt="body_heaven_TThumbnail" src="https://github.com/user-attachments/assets/c2aa301a-d9cf-4b7c-808b-8920562ad5f9" />| 007's Aston Martin Valhalla | **Completed!**
 |<img width="80" height="80" alt="Body_AA_TThumbnail" src="https://github.com/user-attachments/assets/8b0f9f80-1f92-40fe-8369-95dc490b6356" />| Ace | **Completed!**
-|<img width="80" height="80" alt="body_ODB_TThumbnail" src="https://github.com/user-attachments/assets/77e412b2-c152-4d86-9078-da98aea08c39" />| Admiral | **Completed!**
+|<img width="80" height="80" alt="body_ODB_TThumbnail" src="https://github.com/user-attachments/assets/77e412b2-c152-4d86-9078-da98aea08c39" />| Admiral | - 1 Decal
 |<img width="80" height="80" alt="Body_Aftershock_TThumbnail" src="https://github.com/user-attachments/assets/a0ba3e2e-e3a1-481a-b99a-6b59036c68c8" />| Aftershock | - 2 Decals
 |<img width="80" height="80" alt="Body_Focaccia_TThumbnail" src="https://github.com/user-attachments/assets/312fee1b-23e9-479b-aea5-2950ee2188fc" />| Animus GP | - 2 Decals
 |<img width="80" height="80" alt="body_Enspier_Tier1_TThumbnail" src="https://github.com/user-attachments/assets/54b9546c-6286-4d3e-8df2-c47cf06175ba" />| Artemis | **Completed!**
@@ -114,7 +114,7 @@
 |<img width="80" height="80" alt="body_lux_TThumbnail" src="https://github.com/user-attachments/assets/95f956dc-4456-4065-b205-b71bb57a02e5" />| Maestro | - Carbody<br>- 1 Decal
 |<img width="80" height="80" alt="body_hydeT1_TThumbnail" src="https://github.com/user-attachments/assets/6ec08fe3-5357-40b9-b858-206e012685f8" />| Magnifique | **Completed!**
 |<img width="80" height="80" alt="body_HydeT2_TThumbnail" src="https://github.com/user-attachments/assets/33d4b35f-cf25-4989-8241-03da484bc7e9" />| Magnifique GXT | **Completed!**
-|<img width="80" height="80" alt="body_keanu_TThumbnail" src="https://github.com/user-attachments/assets/27c63ba7-d1d2-4e9e-920d-c5af64b51150" />| Mako | **Completed!**
+|<img width="80" height="80" alt="body_keanu_TThumbnail" src="https://github.com/user-attachments/assets/27c63ba7-d1d2-4e9e-920d-c5af64b51150" />| Mako | - 1 Decal
 |<img width="80" height="80" alt="Body_Maser_TThumbnail" src="https://github.com/user-attachments/assets/db961715-6982-4edd-b9c0-3147efe6c169" />| Mamba | **Completed!**
 |<img width="80" height="80" alt="body_Flatbread_TThumbnail" src="https://github.com/user-attachments/assets/ab66929d-609e-4d2f-800c-179cf1ae51a3" />| Mantis | - 9 Decals
 |<img width="80" height="80" alt="Body_Marauder_TThumbnail" src="https://github.com/user-attachments/assets/b2b985d9-1254-4f86-86f2-bb022be05275" />| Marauder | - 6 Decals
