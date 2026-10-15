@@ -47,7 +47,7 @@
 |<img width="80" height="80" alt="Body_GreyCar_TThumbnail" src="https://github.com/user-attachments/assets/3b42548a-850a-481a-8fa7-2c141bce9a21" />| DeLorean Time Machine | **Completed!**
 |<img width="80" height="80" alt="body_rebar_Tier2_TThumbnail" src="https://github.com/user-attachments/assets/f7cf5c72-ada0-473c-9baf-7a4e882c41c6" />| Diesel | **Completed!**
 |<img width="80" height="80" alt="Body_Carrot_TThumbnail" src="https://github.com/user-attachments/assets/378c82ad-4696-4b23-b62d-374406fc165b" />| Diestro | **Completed!**
-|<img width="80" height="80" alt="Body_Ramen_TThumbnail" src="https://github.com/user-attachments/assets/e80f506d-dd23-4cc5-bba4-1c91ec2dc48f" />| Dingo | - 4 Decals
+|<img width="80" height="80" alt="Body_Ramen_TThumbnail" src="https://github.com/user-attachments/assets/e80f506d-dd23-4cc5-bba4-1c91ec2dc48f" />| Dingo | - 2 Decals
 |<img width="80" height="80" alt="body_edison_TThumbnail" src="https://github.com/user-attachments/assets/58ed7355-dd14-4956-89f5-58948cd0e248" />| Dodge Charger Daytona Scat Pack | **Completed!**
 |<img width="80" height="80" alt="body_FancyFlake_TThumbnail" src="https://github.com/user-attachments/assets/0c356c9d-7e64-4d26-ac12-c032de775fa7" />| Dodge Viper GTS-R | **Completed!**
 |<img width="80" height="80" alt="Body_MuscleCar_TThumbnail" src="https://github.com/user-attachments/assets/5c626d08-f7bd-4c3f-95f3-b3bc9168144a" />| Dominus | - 21 Decals
@@ -133,15 +133,15 @@
 |<img width="80" height="80" alt="body_Macht_TThumbnail" src="https://github.com/user-attachments/assets/ea4e25fc-42ff-461b-aa47-53fbb4b68a4e" />| Mercedes-AMG GT 63 S | **Completed!**
 |<img width="80" height="80" alt="body_econ_TThumbnail" src="https://github.com/user-attachments/assets/58128217-4ae7-4d8b-b3e0-bc002c60cdf5" />| Mercedes-Benz CLA | **Completed!**
 |<img width="80" height="80" alt="body_diggy_TThumbnail" src="https://github.com/user-attachments/assets/6b301086-cc34-4bab-ac96-c882eaaa0818" />| MR11 | - Carbody<br>- 4 Decals
-|<img width="80" height="80" alt="Body_Melon_Tier_01_TThumbnail" src="https://github.com/user-attachments/assets/fadef6f8-31f0-4aea-984f-2803a2136881" />| Mudcat | - Carbody<br>- 6 Decals
+|<img width="80" height="80" alt="Body_Melon_Tier_01_TThumbnail" src="https://github.com/user-attachments/assets/fadef6f8-31f0-4aea-984f-2803a2136881" />| Mudcat | - Carbody<br>- 1 Decal
 |<img width="80" height="80" alt="Body_Melon_Tier_02_TThumbnail" src="https://github.com/user-attachments/assets/2398d8ce-1ca6-4a8d-b8c6-e4577336612e" />| Mudcat G1 | - Carbody<br>- 7 Decals
 |<img width="80" height="80" alt="Body_Melon_Tier_03_TThumbnail" src="https://github.com/user-attachments/assets/d24ab5ee-2209-4dcc-88c2-64be47fafa5b" />| Mudcat GXT | - Carbody<br>- 7 Decals
-|<img width="80" height="80" alt="Body_Oramac_TThumbnail" src="https://github.com/user-attachments/assets/6e8ed2dd-abdc-4454-b7f0-0e3565a2d436" />| NASCAR Chevrolet | - Carbody<br>- 8 Decals
-|<img width="80" height="80" alt="Body_Droftwo_TThumbnail" src="https://github.com/user-attachments/assets/49749be3-71b4-4c5e-81b1-6cc334945fc3" />| NASCAR Ford Mustang | - Carbody<br>- 4 Decals
+|<img width="80" height="80" alt="Body_Oramac_TThumbnail" src="https://github.com/user-attachments/assets/6e8ed2dd-abdc-4454-b7f0-0e3565a2d436" />| NASCAR Chevrolet | - Carbody
+|<img width="80" height="80" alt="Body_Droftwo_TThumbnail" src="https://github.com/user-attachments/assets/49749be3-71b4-4c5e-81b1-6cc334945fc3" />| NASCAR Ford Mustang | - Carbody<br>- 1 Decal
 |<img width="80" height="80" alt="body_scar_b_TThumbnail png" src="https://github.com/user-attachments/assets/c7490eb0-cae8-40af-84ab-29bdda0eedc2" />| NASCAR NEXT GEN Chevrolet Camaro | - 1 Decal
 |<img width="80" height="80" alt="body_scar_a_TThumbnail" src="https://github.com/user-attachments/assets/19115473-cefe-4357-bec5-6490a55e4536" />| NASCAR NEXT GEN Ford Mustang | **Completed!**
 |<img width="80" height="80" alt="body_scar_c_TThumbnail" src="https://github.com/user-attachments/assets/5853c3b8-6e30-4952-9f07-cd36317a5123" />| NASCAR NEXT GEN Toyota Camry | - 7 Decals
-|<img width="80" height="80" alt="Body_Atoyot_TThumbnail" src="https://github.com/user-attachments/assets/48c6ed72-12bc-4ae5-9561-af671867863b" />| NASCAR Toyota Camry | - 4 Decals
+|<img width="80" height="80" alt="Body_Atoyot_TThumbnail" src="https://github.com/user-attachments/assets/48c6ed72-12bc-4ae5-9561-af671867863b" />| NASCAR Toyota Camry | **Completed!**
 |<img width="80" height="80" alt="Body_ZMoney_TThumbnail" src="https://github.com/user-attachments/assets/790e3ee8-4402-4c27-8926-d0b7b7bbc302" />| Nemesis | - Carbody<br>- 7 Decals
 |<img width="80" height="80" alt="body_Norton_TThumbnail" src="https://github.com/user-attachments/assets/5d5474a1-49c7-4d02-a604-df58b58b357a" />| Nexus | - 2 Decals
 |<img width="80" height="80" alt="Body_Norton_Tier2_TThumbnail" src="https://github.com/user-attachments/assets/72d7805a-57ba-4c73-87ba-3945cc742511" />| Nexus SC | - 13 Decals
@@ -153,7 +153,7 @@
 |<img width="80" height="80" alt="Body_Seasalt_T2_TThumbnail" src="https://github.com/user-attachments/assets/1b278dc7-6965-4d24-ab72-52accd4e493c" />| Nissan Silvia RLE | **Completed!**
 |<img width="80" height="80" alt="Body_Nerd_TThumbnail" src="https://github.com/user-attachments/assets/5f5f6a41-4d31-435a-b5fe-3ae315932884" />| Nissan Skyline R32 | **Completed!**
 |<img width="80" height="80" alt="body_sassy_TThumbnail" src="https://github.com/user-attachments/assets/db2cdb8d-8541-4625-af9a-29ac4068cd19" />| Nissan Z Performance | **Completed!**
-|<img width="80" height="80" alt="body_Maui_TThumbnail" src="https://github.com/user-attachments/assets/20b81b48-69f7-4ee1-a75f-96a7e05e8ffa" />| Nomad | - 5 Decals
+|<img width="80" height="80" alt="body_Maui_TThumbnail" src="https://github.com/user-attachments/assets/20b81b48-69f7-4ee1-a75f-96a7e05e8ffa" />| Nomad | - 1 Decal
 |<img width="80" height="80" alt="body_Maui_t2_TThumbnail" src="https://github.com/user-attachments/assets/7b7ba40c-8f7c-4882-a143-1ac1540c1075" />| Nomad GXT | - Carbody<br>- 12 Decals
 |<img width="80" height="80" alt="Body_Octane_TThumbnail" src="https://github.com/user-attachments/assets/63ce5003-26a8-43d9-a187-0b721036bedc" />| Octane | - 16 Decals
 |<img width="80" height="80" alt="Body_O2_TThumbnail" src="https://github.com/user-attachments/assets/e290aeb3-38da-48f8-b5a9-553e2f5e7d77" />| Octane ZSR | - 2 Decals
