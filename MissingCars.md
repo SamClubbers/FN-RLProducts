@@ -1,7 +1,7 @@
 ## RL Cars Not Yet in FN
 
 - This is a list tracking every car that hasn’t yet transferred from Rocket League to Fortnite
-- There are currently 90 cars that have not transferred yet (67, excluding tier variants)
+- There are currently 89 cars that have not transferred yet (66, excluding tier variants)
 
 
 <details>
@@ -93,7 +93,6 @@
 |<img width="80" height="80" alt="Body_Focaccia_TThumbnail" src="https://github.com/user-attachments/assets/29ccb2f2-b608-4eb8-92f8-d52220dc8be7" />| Animus GP | Body_Focaccia
 |<img width="80" height="80" alt="Body_Force_TThumbnail" src="https://github.com/user-attachments/assets/27279a51-12a3-49f9-9af1-8e3eb34c23b3" />| Breakout | Body_Force
 |<img width="80" height="80" alt="Body_CarCar_TThumbnail" src="https://github.com/user-attachments/assets/7f71d502-4b35-4229-a888-26f251f9c5d2" />| Breakout Type-S | Body_CarCar
-|<img width="80" height="80" alt="Body_Ramen_TThumbnail" src="https://github.com/user-attachments/assets/4ca57492-4d9c-461c-8e97-f312bda16447" />| Dingo | Body_Ramen
 |<img width="80" height="80" alt="Body_MuscleCar_TThumbnail" src="https://github.com/user-attachments/assets/7b365d6b-e6ac-435d-b002-79321a8e0ec2" />| Dominus | Body_MuscleCar
 |<img width="80" height="80" alt="Body_NeoBike_TThumbnail" src="https://github.com/user-attachments/assets/3dbfdc39-a3d4-44d3-9370-1424dfd6b5c7" />| Esper | Body_NeoBike
 |<img width="80" height="80" alt="Body_Grain_TThumbnail" src="https://github.com/user-attachments/assets/6eab3987-b37c-45c5-a7e2-836bc1abb79c" />| Fennec | Body_Grain
