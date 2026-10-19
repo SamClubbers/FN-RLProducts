@@ -138,7 +138,7 @@
 |<img width="80" height="80" alt="Body_Melon_Tier_03_TThumbnail" src="https://github.com/user-attachments/assets/d24ab5ee-2209-4dcc-88c2-64be47fafa5b" />| Mudcat GXT | - Carbody<br>- 7 Decals
 |<img width="80" height="80" alt="Body_Oramac_TThumbnail" src="https://github.com/user-attachments/assets/6e8ed2dd-abdc-4454-b7f0-0e3565a2d436" />| NASCAR Chevrolet | - Carbody
 |<img width="80" height="80" alt="Body_Droftwo_TThumbnail" src="https://github.com/user-attachments/assets/49749be3-71b4-4c5e-81b1-6cc334945fc3" />| NASCAR Ford Mustang | - Carbody<br>- 1 Decal
-|<img width="80" height="80" alt="body_scar_b_TThumbnail png" src="https://github.com/user-attachments/assets/c7490eb0-cae8-40af-84ab-29bdda0eedc2" />| NASCAR NEXT GEN Chevrolet Camaro | - 1 Decal
+|<img width="80" height="80" alt="body_scar_b_TThumbnail png" src="https://github.com/user-attachments/assets/c7490eb0-cae8-40af-84ab-29bdda0eedc2" />| NASCAR NEXT GEN Chevrolet Camaro | **Completed!**
 |<img width="80" height="80" alt="body_scar_a_TThumbnail" src="https://github.com/user-attachments/assets/19115473-cefe-4357-bec5-6490a55e4536" />| NASCAR NEXT GEN Ford Mustang | **Completed!**
 |<img width="80" height="80" alt="body_scar_c_TThumbnail" src="https://github.com/user-attachments/assets/5853c3b8-6e30-4952-9f07-cd36317a5123" />| NASCAR NEXT GEN Toyota Camry | - 7 Decals
 |<img width="80" height="80" alt="Body_Atoyot_TThumbnail" src="https://github.com/user-attachments/assets/48c6ed72-12bc-4ae5-9561-af671867863b" />| NASCAR Toyota Camry | **Completed!**
