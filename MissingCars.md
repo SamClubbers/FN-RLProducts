@@ -1,7 +1,7 @@
 ## RL Cars Not Yet in FN
 
 - This is a list tracking every car that hasn’t yet transferred from Rocket League to Fortnite
-- There are currently 89 cars that have not transferred yet (66, excluding tier variants)
+- There are currently 88 cars that have not transferred yet (65, excluding tier variants)
 
 
 <details>
@@ -27,7 +27,6 @@
 |<img width="80" height="80" alt="body_diggy_TThumbnail" src="https://github.com/user-attachments/assets/9560262f-0cda-447f-bdf3-0c5448319147" />| MR11 | Body_Diggy
 |<img width="80" height="80" alt="Body_Oramac_TThumbnail" src="https://github.com/user-attachments/assets/18a547dd-742e-469c-bd69-6725b5e9eecf" />| NASCAR Chevrolet | Body_Oramac
 |<img width="80" height="80" alt="Body_Droftwo_TThumbnail" src="https://github.com/user-attachments/assets/c447151c-317a-4965-b803-3221d79ab888" />| NASCAR Ford Mustang | Body_Droftwo
-|<img width="80" height="80" alt="body_scar_a_TThumbnail" src="https://github.com/user-attachments/assets/ab6826e6-4a0d-4eac-8dfc-59a52341a454" />| NASCAR NEXT GEN Ford Mustang | Body_Scar_a
 |<img width="80" height="80" alt="body_scar_c_TThumbnail" src="https://github.com/user-attachments/assets/61a72675-ceee-43f5-a5bb-cc0f8a521a76" />| NASCAR NEXT GEN Toyota Camry | Body_Scar_c
 |<img width="80" height="80" alt="Body_Atoyot_TThumbnail" src="https://github.com/user-attachments/assets/2b4eca2f-55f0-4123-91fb-4e17f19cf713" />| NASCAR Toyota Camry | Body_Atoyot
 |<img width="80" height="80" alt="Body_Berry_TThumbnail" src="https://github.com/user-attachments/assets/5a85be49-b128-4baf-a838-ae50a99951f2" />| The Dark Knight's Tumbler | Body_Berry
