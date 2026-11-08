@@ -1,7 +1,7 @@
 ## RL Cars Not Yet in FN
 
 - This is a list tracking every car that hasn’t yet transferred from Rocket League to Fortnite
-- There are currently 88 cars that have not transferred yet (65, excluding tier variants)
+- There are currently 86 cars that have not transferred yet (63, excluding tier variants)
 
 
 <details>
@@ -11,7 +11,6 @@
 |------|-----------|----------|
 |<img width="80" height="80" alt="Body_Darkcar_TThumbnail" src="https://github.com/user-attachments/assets/4281a1b9-0ec9-4a2b-87bb-7e685761c9d1" />| Batmobile (2016) | Body_Darkcar
 |<img width="80" height="80" alt="Body_Bone_TThumbnail" src="https://github.com/user-attachments/assets/fe9978df-ff0a-4ead-835e-1d6b8143a880" />| Bone Shaker | Body_Bone
-|<img width="80" height="80" alt="Body_Ten_TThumbnail" src="https://github.com/user-attachments/assets/a11e853a-ff2c-40a8-bd69-5c21896c53a5" />| Bugatti Centodieci | Body_Ten
 |<img width="80" height="80" alt="Body_Trap_TThumbnail" src="https://github.com/user-attachments/assets/d7ffed70-1f8c-479b-81aa-cdd869c835a0" />| Bumblebee | Body_Trap
 |<img width="80" height="80" alt="Body_Slime_TThumbnail" src="https://github.com/user-attachments/assets/c19094b3-7f5b-4058-987c-63043f2f21d7" />| Ecto-1 | Body_Slime
 |<img width="80" height="80" alt="Body_Challah_TThumbnail" src="https://github.com/user-attachments/assets/5e7b4345-45fe-4b2a-aa51-6db9590c3302" />| Fast & Furious Dodge Charger | Body_Challah
@@ -110,7 +109,6 @@
 |<img width="80" height="80" alt="Body_Chip_TThumbnail" src="https://github.com/user-attachments/assets/079ad262-37a1-45ed-b075-619801ce1429" />| Sentinel | Body_Chip
 |<img width="80" height="80" alt="Body_Cannonboy_TThumbnail" src="https://github.com/user-attachments/assets/b25d5504-13c7-43c7-b6da-9fb0b233e3e7" />| Triton | Body_Cannonboy
 |<img width="80" height="80" alt="Body_Venom_TThumbnail" src="https://github.com/user-attachments/assets/cd61b2e2-de1a-4ac6-a56d-b92532806b68" />| Venom | Body_Venom
-|<img width="80" height="80" alt="Body_Gilliam_TThumbnail" src="https://github.com/user-attachments/assets/0b8e0b46-0cef-4c28-9dc5-5097b74afc4f" />| Vulcan | Body_Gilliam
 |<img width="80" height="80" alt="Body_Torch_TThumbnail" src="https://github.com/user-attachments/assets/6bacf0a4-a50e-4519-9158-12d18c5b136b" />| X-Devil | Body_Torch
 |<img width="80" height="80" alt="Body_Torch2_TThumbnail" src="https://github.com/user-attachments/assets/93089774-ce56-407e-b124-e65154a88899" />| X-Devil MK2 | Body_Torch2
 </details>
