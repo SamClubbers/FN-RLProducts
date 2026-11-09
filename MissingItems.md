@@ -12,7 +12,7 @@
 |<img width="80" height="80" alt="Body_Durian_tier2_TThumbnail" src="https://github.com/user-attachments/assets/fdf780f1-7c31-475e-9e37-d6a7880a1284" />| Chikara G1 | - 7 Decals
 |<img width="80" height="80" alt="Body_Durian_tier3_TThumbnail" src="https://github.com/user-attachments/assets/19f4a1fc-f360-4763-b538-7dc198e3c17f" />| Chikara GXT | - 7 Decals
 |<img width="80" height="80" alt="Body_Squash_TThumbnail" src="https://github.com/user-attachments/assets/d1aa1557-240f-4da9-abd4-f0343f9ce9a4" />| Cyclone | - 3 Decals
-|<img width="80" height="80" alt="Body_MuscleCar_TThumbnail" src="https://github.com/user-attachments/assets/5c626d08-f7bd-4c3f-95f3-b3bc9168144a" />| Dominus | - 12 Decals
+|<img width="80" height="80" alt="Body_MuscleCar_TThumbnail" src="https://github.com/user-attachments/assets/5c626d08-f7bd-4c3f-95f3-b3bc9168144a" />| Dominus | - 13 Decals
 |<img width="80" height="80" alt="Body_MuscleCar2_TThumbnail" src="https://github.com/user-attachments/assets/d23de0c8-43f0-4bae-b13b-f12c2011cea7" />| Dominus GT | - 2 Decals
 |<img width="80" height="80" alt="body_musclecar_SE_Glow_TThumbnail" src="https://github.com/user-attachments/assets/a1695233-4399-4630-b5f7-1a0a46d2e43c" />| Dominus: Neon Trim | - Carbody
 |<img width="80" height="80" alt="Body_Slime_TThumbnail" src="https://github.com/user-attachments/assets/4547ef87-979e-4454-868f-c38cbb56b70c" />| Ecto-1 | - 1 Decal
