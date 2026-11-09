@@ -48,7 +48,7 @@
 |<img width="80" height="80" alt="Body_Melon_Tier_02_TThumbnail" src="https://github.com/user-attachments/assets/2398d8ce-1ca6-4a8d-b8c6-e4577336612e" />| Mudcat G1 | - 7 Decals
 |<img width="80" height="80" alt="Body_Melon_Tier_03_TThumbnail" src="https://github.com/user-attachments/assets/d24ab5ee-2209-4dcc-88c2-64be47fafa5b" />| Mudcat GXT | - 7 Decals
 |<img width="80" height="80" alt="Body_Droftwo_TThumbnail" src="https://github.com/user-attachments/assets/49749be3-71b4-4c5e-81b1-6cc334945fc3" />| NASCAR Ford Mustang | - 1 Decal
-|<img width="80" height="80" alt="Body_ZMoney_TThumbnail" src="https://github.com/user-attachments/assets/790e3ee8-4402-4c27-8926-d0b7b7bbc302" />| Nemesis | - Carbody<br>- 7 Decals
+|<img width="80" height="80" alt="Body_ZMoney_TThumbnail" src="https://github.com/user-attachments/assets/790e3ee8-4402-4c27-8926-d0b7b7bbc302" />| Nemesis | - Carbody<br>- 8 Decals
 |<img width="80" height="80" alt="body_Norton_TThumbnail" src="https://github.com/user-attachments/assets/5d5474a1-49c7-4d02-a604-df58b58b357a" />| Nexus | - 2 Decals
 |<img width="80" height="80" alt="Body_Norton_Tier2_TThumbnail" src="https://github.com/user-attachments/assets/72d7805a-57ba-4c73-87ba-3945cc742511" />| Nexus SC | - 13 Decals
 |<img width="80" height="80" alt="body_Maui_TThumbnail" src="https://github.com/user-attachments/assets/20b81b48-69f7-4ee1-a75f-96a7e05e8ffa" />| Nomad | - 1 Decal
