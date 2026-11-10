@@ -53,7 +53,7 @@
 |<img width="80" height="80" alt="Body_Norton_Tier2_TThumbnail" src="https://github.com/user-attachments/assets/72d7805a-57ba-4c73-87ba-3945cc742511" />| Nexus SC | - 13 Decals
 |<img width="80" height="80" alt="body_Maui_TThumbnail" src="https://github.com/user-attachments/assets/20b81b48-69f7-4ee1-a75f-96a7e05e8ffa" />| Nomad | - 1 Decal
 |<img width="80" height="80" alt="body_Maui_t2_TThumbnail" src="https://github.com/user-attachments/assets/7b7ba40c-8f7c-4882-a143-1ac1540c1075" />| Nomad GXT | - 12 Decals
-|<img width="80" height="80" alt="Body_Octane_TThumbnail" src="https://github.com/user-attachments/assets/63ce5003-26a8-43d9-a187-0b721036bedc" />| Octane | - 22 Decals
+|<img width="80" height="80" alt="Body_Octane_TThumbnail" src="https://github.com/user-attachments/assets/63ce5003-26a8-43d9-a187-0b721036bedc" />| Octane | - 20 Decals
 |<img width="80" height="80" alt="Body_O2_TThumbnail" src="https://github.com/user-attachments/assets/e290aeb3-38da-48f8-b5a9-553e2f5e7d77" />| Octane ZSR | - 2 Decals
 |<img width="80" height="80" alt="Body_Rattrap_Tier2_TThumbnail" src="https://github.com/user-attachments/assets/62dde231-8503-4ebc-92d4-0f351b0e7cb8" />| Outlaw GXT | - 14 Decals
 |<img width="80" height="80" alt="Body_Orion_TThumbnail" src="https://github.com/user-attachments/assets/d686b884-157c-4203-8c7e-c8a7968ec58b" />| Paladin | - 1 Decal
