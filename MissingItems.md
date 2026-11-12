@@ -30,7 +30,6 @@
 |<img width="80" height="80" alt="body_mango_tier2_TThumbnail" src="https://github.com/user-attachments/assets/6aa4bf5f-7bcb-4a71-8a7c-85b18b5293c2" />| Guardian G1 | - 6 Decals
 |<img width="80" height="80" alt="body_mango_tier3_TThumbnail" src="https://github.com/user-attachments/assets/98cadd7f-b9fc-42d6-ac38-c552e30b890b" />| Guardian GXT | - 6 Decals
 |<img width="80" height="80" alt="Body_Lemonade_Tier3_TThumbnail" src="https://github.com/user-attachments/assets/e9ebfb3d-6bb3-4357-a44c-44d76287ff09" />| Harbinger GXT | - 13 Decals
-|<img width="80" height="80" alt="body_hic_t2_TThumbnail" src="https://github.com/user-attachments/assets/e1ca095b-cef5-49d4-ac16-c19326079486" />| Honda Civic Type R-LE | - 10 Decals
 |<img width="80" height="80" alt="Body_Torment_TThumbnail" src="https://github.com/user-attachments/assets/618568bc-f7d0-4e36-8554-5c2d9bcee7e6" />| Hotshot | - 3 Decals
 |<img width="80" height="80" alt="body_lux_TThumbnail" src="https://github.com/user-attachments/assets/95f956dc-4456-4065-b205-b71bb57a02e5" />| Maestro | - Carbody
 |<img width="80" height="80" alt="body_keanu_TThumbnail" src="https://github.com/user-attachments/assets/27c63ba7-d1d2-4e9e-920d-c5af64b51150" />| Mako | - 1 Decal
@@ -141,6 +140,7 @@
 |<img width="80" height="80" alt="body_wedding_TThumbnail" src="https://github.com/user-attachments/assets/3abaf662-d8c4-42eb-995c-f8be7979e3e4" />| Hearse | **Completed!**
 |<img width="80" height="80" alt="Body_Sprinkle_TThumbnail" src="https://github.com/user-attachments/assets/22a0da72-6d89-4779-8f70-7956dc478221" />| Homer's Car | **Completed!**
 |<img width="80" height="80" alt="body_hic_t1_TThumbnail" src="https://github.com/user-attachments/assets/a3d56586-7b68-4950-8f03-ef4a45b485ed" />| Honda Civic Type R | **Completed!**
+|<img width="80" height="80" alt="body_hic_t2_TThumbnail" src="https://github.com/user-attachments/assets/e1ca095b-cef5-49d4-ac16-c19326079486" />| Honda Civic Type R-LE | **Completed!**
 |<img width="80" height="80" alt="body_TurtleModem_TThumbnail" src="https://github.com/user-attachments/assets/706a20f0-0011-40a7-bc31-b53cc9cb08c9" />| Hyundai Ioniq 6 | **Completed!**
 |<img width="80" height="80" alt="Body_Charged_TThumbnail" src="https://github.com/user-attachments/assets/38444cf9-3d5d-481c-964b-cdc6e8c7e9d3" />| Ice Charger | **Completed!**
 |<img width="80" height="80" alt="Body_Multigrain_TThumbnail" src="https://github.com/user-attachments/assets/d640c8c8-a2b6-4016-ba8e-4dffe63e2e88" />| Imperator DT5 | **Completed!**
