@@ -7,7 +7,7 @@
 |<img width="80" height="80" alt="Body_Darkcar_TThumbnail" src="https://github.com/user-attachments/assets/b8243e74-8168-4ccb-8f77-ebdc7930e7c1" />| Batmobile (2016) | - 1 Trail
 |<img width="80" height="80" alt="Body_Bone_TThumbnail" src="https://github.com/user-attachments/assets/f20c5323-47fb-4a82-b3bf-56175f1309ad" />| Bone Shaker | - Carbody<br>- 6 Decals
 |<img width="80" height="80" alt="Body_Force_TThumbnail" src="https://github.com/user-attachments/assets/df51e59a-aeee-434f-9aca-944ebd513f93" />| Breakout | - 6 Decals
-|<img width="80" height="80" alt="Body_CarCar_TThumbnail" src="https://github.com/user-attachments/assets/8c5aa1f1-b869-4f42-9ce2-8aebbb1a38c7" />| Breakout Type-S | - 7 Decals
+|<img width="80" height="80" alt="Body_CarCar_TThumbnail" src="https://github.com/user-attachments/assets/8c5aa1f1-b869-4f42-9ce2-8aebbb1a38c7" />| Breakout Type-S | - 4 Decals
 |<img width="80" height="80" alt="Body_Trap_TThumbnail" src="https://github.com/user-attachments/assets/85a8ee87-0352-4482-87bc-d107a0a355e2" />| Bumblebee | - Carbody
 |<img width="80" height="80" alt="Body_Durian_tier2_TThumbnail" src="https://github.com/user-attachments/assets/fdf780f1-7c31-475e-9e37-d6a7880a1284" />| Chikara G1 | - 7 Decals
 |<img width="80" height="80" alt="Body_Durian_tier3_TThumbnail" src="https://github.com/user-attachments/assets/19f4a1fc-f360-4763-b538-7dc198e3c17f" />| Chikara GXT | - 7 Decals
@@ -15,7 +15,6 @@
 |<img width="80" height="80" alt="Body_MuscleCar_TThumbnail" src="https://github.com/user-attachments/assets/5c626d08-f7bd-4c3f-95f3-b3bc9168144a" />| Dominus | - 13 Decals
 |<img width="80" height="80" alt="Body_MuscleCar2_TThumbnail" src="https://github.com/user-attachments/assets/d23de0c8-43f0-4bae-b13b-f12c2011cea7" />| Dominus GT | - 2 Decals
 |<img width="80" height="80" alt="body_musclecar_SE_Glow_TThumbnail" src="https://github.com/user-attachments/assets/a1695233-4399-4630-b5f7-1a0a46d2e43c" />| Dominus: Neon Trim | - Carbody
-|<img width="80" height="80" alt="Body_Slime_TThumbnail" src="https://github.com/user-attachments/assets/4547ef87-979e-4454-868f-c38cbb56b70c" />| Ecto-1 | - 1 Decal
 |<img width="80" height="80" alt="body_beak_tier1_TThumbnail" src="https://github.com/user-attachments/assets/a2d1e12f-4f7e-49bb-8762-4a94f2c19532" />| Emperor | - Carbody
 |<img width="80" height="80" alt="body_beak_tier2_TThumbnail" src="https://github.com/user-attachments/assets/c59c853c-0e30-4a4e-85e0-26baffd335bb" />| Emperor II | - Carbody<br>- 8 Decals
 |<img width="80" height="80" alt="body_beak_tier2_fire_TThumbnail" src="https://github.com/user-attachments/assets/5b9121a6-77c0-4517-9ce8-0400678dd5ce" />| Emperor II: Scorched | - 8 Decals
@@ -30,52 +29,48 @@
 |<img width="80" height="80" alt="Body_Spark_TThumbnail" src="https://github.com/user-attachments/assets/d0d5a842-27bb-4ca8-913e-57bfb66e61f9" />| Gizmo | - 1 Decals
 |<img width="80" height="80" alt="body_mango_tier2_TThumbnail" src="https://github.com/user-attachments/assets/6aa4bf5f-7bcb-4a71-8a7c-85b18b5293c2" />| Guardian G1 | - 6 Decals
 |<img width="80" height="80" alt="body_mango_tier3_TThumbnail" src="https://github.com/user-attachments/assets/98cadd7f-b9fc-42d6-ac38-c552e30b890b" />| Guardian GXT | - 6 Decals
-|<img width="80" height="80" alt="Body_Lemonade_TThumbnail" src="https://github.com/user-attachments/assets/899eada3-0acc-4662-aea5-d67d045e34a2" />| Harbinger | - 3 Decals
 |<img width="80" height="80" alt="Body_Lemonade_Tier3_TThumbnail" src="https://github.com/user-attachments/assets/e9ebfb3d-6bb3-4357-a44c-44d76287ff09" />| Harbinger GXT | - 13 Decals
 |<img width="80" height="80" alt="body_hic_t2_TThumbnail" src="https://github.com/user-attachments/assets/e1ca095b-cef5-49d4-ac16-c19326079486" />| Honda Civic Type R-LE | - 10 Decals
 |<img width="80" height="80" alt="Body_Torment_TThumbnail" src="https://github.com/user-attachments/assets/618568bc-f7d0-4e36-8554-5c2d9bcee7e6" />| Hotshot | - 3 Decals
 |<img width="80" height="80" alt="body_lux_TThumbnail" src="https://github.com/user-attachments/assets/95f956dc-4456-4065-b205-b71bb57a02e5" />| Maestro | - Carbody
 |<img width="80" height="80" alt="body_keanu_TThumbnail" src="https://github.com/user-attachments/assets/27c63ba7-d1d2-4e9e-920d-c5af64b51150" />| Mako | - 1 Decal
-|<img width="80" height="80" alt="body_Flatbread_TThumbnail" src="https://github.com/user-attachments/assets/ab66929d-609e-4d2f-800c-179cf1ae51a3" />| Mantis | - 8 Decals
 |<img width="80" height="80" alt="Body_Marauder_TThumbnail" src="https://github.com/user-attachments/assets/b2b985d9-1254-4f86-86f2-bb022be05275" />| Marauder | - 3 Decals
 |<img width="80" height="80" alt="Body_NeoCar_TThumbnail" src="https://github.com/user-attachments/assets/fc5b8878-0442-495d-9c5b-72f1c4628fd8" />| Masamune | - 3 Decals
 |<img width="80" height="80" alt="Body_Rye_Tier1_TThumbnail" src="https://github.com/user-attachments/assets/7d2864fe-8491-43c8-b537-3ccb70a368eb" />| Maverick | - 1 Decal
 |<img width="80" height="80" alt="Body_Rye_Tier2_TThumbnail" src="https://github.com/user-attachments/assets/8406a961-7ebb-423f-839c-07ff9a87dc12" />| Maverick G1 | - 6 Decals
 |<img width="80" height="80" alt="body_rye_tier3_TThumbnail" src="https://github.com/user-attachments/assets/2cc633a4-5359-44d9-9c48-0755733db6fc" />| Maverick GXT | - 6 Decals
-|<img width="80" height="80" alt="Body_Vanquish_TThumbnail" src="https://github.com/user-attachments/assets/36b3e030-2388-4803-822d-57a33f18b5e7" />| Merc | - 21 Decals
+|<img width="80" height="80" alt="Body_Vanquish_TThumbnail" src="https://github.com/user-attachments/assets/36b3e030-2388-4803-822d-57a33f18b5e7" />| Merc | - 19 Decals
 |<img width="80" height="80" alt="body_diggy_TThumbnail" src="https://github.com/user-attachments/assets/6b301086-cc34-4bab-ac96-c882eaaa0818" />| MR11 | - Carbody<br>- 4 Decals
-|<img width="80" height="80" alt="Body_Melon_Tier_01_TThumbnail" src="https://github.com/user-attachments/assets/fadef6f8-31f0-4aea-984f-2803a2136881" />| Mudcat | - 1 Decal
 |<img width="80" height="80" alt="Body_Melon_Tier_02_TThumbnail" src="https://github.com/user-attachments/assets/2398d8ce-1ca6-4a8d-b8c6-e4577336612e" />| Mudcat G1 | - 7 Decals
 |<img width="80" height="80" alt="Body_Melon_Tier_03_TThumbnail" src="https://github.com/user-attachments/assets/d24ab5ee-2209-4dcc-88c2-64be47fafa5b" />| Mudcat GXT | - 7 Decals
-|<img width="80" height="80" alt="Body_Droftwo_TThumbnail" src="https://github.com/user-attachments/assets/49749be3-71b4-4c5e-81b1-6cc334945fc3" />| NASCAR Ford Mustang | - 1 Decal
 |<img width="80" height="80" alt="Body_ZMoney_TThumbnail" src="https://github.com/user-attachments/assets/790e3ee8-4402-4c27-8926-d0b7b7bbc302" />| Nemesis | - Carbody<br>- 8 Decals
 |<img width="80" height="80" alt="body_Norton_TThumbnail" src="https://github.com/user-attachments/assets/5d5474a1-49c7-4d02-a604-df58b58b357a" />| Nexus | - 2 Decals
 |<img width="80" height="80" alt="Body_Norton_Tier2_TThumbnail" src="https://github.com/user-attachments/assets/72d7805a-57ba-4c73-87ba-3945cc742511" />| Nexus SC | - 13 Decals
 |<img width="80" height="80" alt="body_Maui_TThumbnail" src="https://github.com/user-attachments/assets/20b81b48-69f7-4ee1-a75f-96a7e05e8ffa" />| Nomad | - 1 Decal
 |<img width="80" height="80" alt="body_Maui_t2_TThumbnail" src="https://github.com/user-attachments/assets/7b7ba40c-8f7c-4882-a143-1ac1540c1075" />| Nomad GXT | - 12 Decals
-|<img width="80" height="80" alt="Body_Octane_TThumbnail" src="https://github.com/user-attachments/assets/63ce5003-26a8-43d9-a187-0b721036bedc" />| Octane | - 20 Decals
+|<img width="80" height="80" alt="Body_Octane_TThumbnail" src="https://github.com/user-attachments/assets/63ce5003-26a8-43d9-a187-0b721036bedc" />| Octane | - 18 Decals
 |<img width="80" height="80" alt="Body_O2_TThumbnail" src="https://github.com/user-attachments/assets/e290aeb3-38da-48f8-b5a9-553e2f5e7d77" />| Octane ZSR | - 2 Decals
 |<img width="80" height="80" alt="Body_Rattrap_Tier2_TThumbnail" src="https://github.com/user-attachments/assets/62dde231-8503-4ebc-92d4-0f351b0e7cb8" />| Outlaw GXT | - 14 Decals
 |<img width="80" height="80" alt="Body_Orion_TThumbnail" src="https://github.com/user-attachments/assets/d686b884-157c-4203-8c7e-c8a7968ec58b" />| Paladin | - 1 Decal
 |<img width="80" height="80" alt="body_Unicorn_Tier1_TThumbnail" src="https://github.com/user-attachments/assets/a71eb598-c2bd-455d-a5f6-56bc31948f33" />| R3MX | - 1 Decal
 |<img width="80" height="80" alt="body_unicorn_tier2_TThumbnail" src="https://github.com/user-attachments/assets/a4f8c735-cb68-43dd-819e-179c415c6365" />| R3MX GXT | - 12 Decals
 |<img width="80" height="80" alt="body_jinn_TThumbnail" src="https://github.com/user-attachments/assets/73a05321-36ce-4784-a0aa-4e277209fb2d" />| Redline | - 1 Decal
-|<img width="80" height="80" alt="Body_Rhino_TThumbnail" src="https://github.com/user-attachments/assets/28443e10-96f2-4fd7-ac9c-6dc6cdd736ef" />| Road Hog | - 5 Decals
+|<img width="80" height="80" alt="Body_Rhino_TThumbnail" src="https://github.com/user-attachments/assets/28443e10-96f2-4fd7-ac9c-6dc6cdd736ef" />| Road Hog | - 1 Decal
 |<img width="80" height="80" alt="Body_Rhino2_TThumbnail" src="https://github.com/user-attachments/assets/c552aaf0-af64-4a14-bde7-98a524ddb503" />| Road Hog XL | - 3 Decals
 |<img width="80" height="80" alt="body_kusanagi_t2_TThumbnail" src="https://github.com/user-attachments/assets/33ec03f9-fc7a-475b-a4bf-10dba3cfd378" />| Ronin G1 | - 6 Decals
 |<img width="80" height="80" alt="Body_Kusanagi_T3_TThumbnail" src="https://github.com/user-attachments/assets/519be659-eaea-48dd-92cb-3b7b931529b8" />| Ronin GXT | - 6 Decals
 |<img width="80" height="80" alt="Body_Scarab_TThumbnail" src="https://github.com/user-attachments/assets/83f28240-9d3b-42bc-9eec-8224c156acce" />| Scarab | - 4 Decals
 |<img width="80" height="80" alt="Body_Import_TThumbnail" src="https://github.com/user-attachments/assets/2b3adebb-efb2-4810-95f2-96fc6e797f4c" />| Takumi | - 2 Decals
 |<img width="80" height="80" alt="Body_Berry_TThumbnail" src="https://github.com/user-attachments/assets/0d5379e8-b0c0-490a-bd41-420f79393ffb" />| The Dark Knight's Tumbler | - 1 Trail
-|<img width="80" height="80" alt="Body_Cannonboy_TThumbnail" src="https://github.com/user-attachments/assets/4f7da9e5-9d2f-4d91-a373-9aaf2f1a7ef8" />| Triton | - 8 Decals
+|<img width="80" height="80" alt="Body_Cannonboy_TThumbnail" src="https://github.com/user-attachments/assets/4f7da9e5-9d2f-4d91-a373-9aaf2f1a7ef8" />| Triton | - 2 Decals
 |<img width="80" height="80" alt="Body_Scallop_TThumbnail" src="https://github.com/user-attachments/assets/59cfd9b9-1d1b-43b3-8d84-4fe5b0d398b8" />| Twin Mill III | - Carbody<br>- 6 Decals
-|<img width="80" height="80" alt="body_raddish_tier1_TThumbnail" src="https://github.com/user-attachments/assets/f4d63b67-4bf4-4743-b89c-583711f6a6c1" />| Tyranno | - 3 Decals
+|<img width="80" height="80" alt="body_raddish_tier1_TThumbnail" src="https://github.com/user-attachments/assets/f4d63b67-4bf4-4743-b89c-583711f6a6c1" />| Tyranno | - 2 Decals
 |<img width="80" height="80" alt="body_Raddish_tier2_TThumbnail" src="https://github.com/user-attachments/assets/1870e9bb-921c-41a2-bfd9-bf916d8022a5" />| Tyranno GXT | - 14 Decals
 |<img width="80" height="80" alt="Body_Venom_TThumbnail" src="https://github.com/user-attachments/assets/ce713bb1-88ce-4fee-b2d9-cfd2d5feaae3" />| Venom | - 1 Decal
 |<img width="80" height="80" alt="Body_Dub_T1_TThumbnail" src="https://github.com/user-attachments/assets/7e48433f-9c41-4ef6-b024-9b42b4617113" />| Volkswagen Golf GTI | - 7 Decals
 |<img width="80" height="80" alt="Body_Dub_T2_TThumbnail" src="https://github.com/user-attachments/assets/6eb47394-ac5b-4d21-ba90-ad1dd5c7a102" />| Volkswagen Golf GTI RLE | - 7 Decals
 |<img width="80" height="80" alt="body_whiplash_TThumbnail" src="https://github.com/user-attachments/assets/b4e6d2ba-d8d7-4504-9a6e-3f4a8796f2b7" />| Whiplash | - Carbody<br>- 4 Decals
-|<img width="80" height="80" alt="Body_Torch_TThumbnail" src="https://github.com/user-attachments/assets/93aae2ff-afc1-4ce1-ab5c-4757ba53ba3c" />| X-Devil | - 3 Decals
+|<img width="80" height="80" alt="Body_Torch_TThumbnail" src="https://github.com/user-attachments/assets/93aae2ff-afc1-4ce1-ab5c-4757ba53ba3c" />| X-Devil | - 2 Decals
 
 <br>
 
@@ -122,6 +117,7 @@
 |<img width="80" height="80" alt="Body_Ramen_TThumbnail" src="https://github.com/user-attachments/assets/e80f506d-dd23-4cc5-bba4-1c91ec2dc48f" />| Dingo | **Completed!**
 |<img width="80" height="80" alt="body_edison_TThumbnail" src="https://github.com/user-attachments/assets/58ed7355-dd14-4956-89f5-58948cd0e248" />| Dodge Charger Daytona Scat Pack | **Completed!**
 |<img width="80" height="80" alt="body_FancyFlake_TThumbnail" src="https://github.com/user-attachments/assets/0c356c9d-7e64-4d26-ac12-c032de775fa7" />| Dodge Viper GTS-R | **Completed!**
+|<img width="80" height="80" alt="Body_Slime_TThumbnail" src="https://github.com/user-attachments/assets/4547ef87-979e-4454-868f-c38cbb56b70c" />| Ecto-1 | **Completed!**
 |<img width="80" height="80" alt="Body_NeoBike_TThumbnail" src="https://github.com/user-attachments/assets/af32320a-fa3d-4af0-9477-27507c217641" />| Esper | **Completed!**
 |<img width="80" height="80" alt="Body_Claw_TThumbnail" src="https://github.com/user-attachments/assets/695be590-ebd7-4bbd-8ac1-a5e7ecd16ca1" />| Fast & Furious Dodge Charger SRT Hellcat | **Completed!**
 |<img width="80" height="80" alt="Body_Challah_TThumbnail" src="https://github.com/user-attachments/assets/4806e901-b67b-484c-8104-1ab41493d4a2" />| Fast & Furious Dodge Charger | **Completed!**
@@ -140,6 +136,7 @@
 |<img width="80" height="80" alt="body_CondorMotor_TThumbnail" src="https://github.com/user-attachments/assets/c981c77a-4876-427f-aab2-9c00419e7529" />| GMC Sierra 2500 AT4X | **Completed!**
 |<img width="80" height="80" alt="Body_WastelandTruck_TThumbnail" src="https://github.com/user-attachments/assets/40765a69-165b-4a90-b4d9-734c79821c28" />| Grog | **Completed!**
 |<img width="80" height="80" alt="body_mango_tier1_TThumbnail" src="https://github.com/user-attachments/assets/2423570c-65e5-4fda-90f7-6d0ee74842ee" />| Guardian | **Completed!**
+|<img width="80" height="80" alt="Body_Lemonade_TThumbnail" src="https://github.com/user-attachments/assets/899eada3-0acc-4662-aea5-d67d045e34a2" />| Harbinger | **Completed!**
 |<img width="80" height="80" alt="Body_Spike_TThumbnail" src="https://github.com/user-attachments/assets/9b8b64c2-4805-488e-b7a1-50ad77b47a59" />| Havoc | **Completed!**
 |<img width="80" height="80" alt="body_wedding_TThumbnail" src="https://github.com/user-attachments/assets/3abaf662-d8c4-42eb-995c-f8be7979e3e4" />| Hearse | **Completed!**
 |<img width="80" height="80" alt="Body_Sprinkle_TThumbnail" src="https://github.com/user-attachments/assets/22a0da72-6d89-4779-8f70-7956dc478221" />| Homer's Car | **Completed!**
@@ -164,6 +161,7 @@
 |<img width="80" height="80" alt="body_hydeT1_TThumbnail" src="https://github.com/user-attachments/assets/6ec08fe3-5357-40b9-b858-206e012685f8" />| Magnifique | **Completed!**
 |<img width="80" height="80" alt="body_HydeT2_TThumbnail" src="https://github.com/user-attachments/assets/33d4b35f-cf25-4989-8241-03da484bc7e9" />| Magnifique GXT | **Completed!**
 |<img width="80" height="80" alt="Body_Maser_TThumbnail" src="https://github.com/user-attachments/assets/db961715-6982-4edd-b9c0-3147efe6c169" />| Mamba | **Completed!**
+|<img width="80" height="80" alt="body_Flatbread_TThumbnail" src="https://github.com/user-attachments/assets/ab66929d-609e-4d2f-800c-179cf1ae51a3" />| Mantis | **Completed!**
 |<img width="80" height="80" alt="Body_NeptuneShell_TThumbnail" src="https://github.com/user-attachments/assets/6184c911-52fe-4875-8c61-828b1df6c2b0" />| Maserati Stradale | **Completed!**
 |<img width="80" height="80" alt="Body_SuperOmega_TThumbnail" src="https://github.com/user-attachments/assets/e49f5413-77d9-400f-9204-5b9e76a565b4" />| Maven | **Completed!**
 |<img width="80" height="80" alt="Body_Ron_TThumbnail" src="https://github.com/user-attachments/assets/1bf43993-dda5-4236-bea6-d33716650543" />| McLaren 570S | **Completed!**
@@ -173,7 +171,9 @@
 |<img width="80" height="80" alt="Body_Slick_TThumbnail" src="https://github.com/user-attachments/assets/a0820054-df5e-4840-b3e2-dce95199a83d" />| Megastar | **Completed!**
 |<img width="80" height="80" alt="body_Macht_TThumbnail" src="https://github.com/user-attachments/assets/ea4e25fc-42ff-461b-aa47-53fbb4b68a4e" />| Mercedes-AMG GT 63 S | **Completed!**
 |<img width="80" height="80" alt="body_econ_TThumbnail" src="https://github.com/user-attachments/assets/58128217-4ae7-4d8b-b3e0-bc002c60cdf5" />| Mercedes-Benz CLA | **Completed!**
-|<img width="80" height="80" alt="Body_Oramac_TThumbnail" src="https://github.com/user-attachments/assets/6e8ed2dd-abdc-4454-b7f0-0e3565a2d436" />| NASCAR Chevrolet | **Completed!**
+|<img width="80" height="80" alt="Body_Melon_Tier_01_TThumbnail" src="https://github.com/user-attachments/assets/fadef6f8-31f0-4aea-984f-2803a2136881" />| Mudcat | **Completed!**
+|<img width="80" height="80" alt="Body_Oramac_TThumbnail" src="https://github.com/user-attachments/assets/6e8ed2dd-abdc-4454-b7f0-0e3565a2d436" />| NASCAR Chevrolet Camaro | **Completed!**
+|<img width="80" height="80" alt="Body_Droftwo_TThumbnail" src="https://github.com/user-attachments/assets/49749be3-71b4-4c5e-81b1-6cc334945fc3" />| NASCAR Ford Mustang | **Completed!**
 |<img width="80" height="80" alt="body_scar_b_TThumbnail png" src="https://github.com/user-attachments/assets/c7490eb0-cae8-40af-84ab-29bdda0eedc2" />| NASCAR NEXT GEN Chevrolet Camaro | **Completed!**
 |<img width="80" height="80" alt="body_scar_a_TThumbnail" src="https://github.com/user-attachments/assets/19115473-cefe-4357-bec5-6490a55e4536" />| NASCAR NEXT GEN Ford Mustang | **Completed!**
 |<img width="80" height="80" alt="body_scar_c_TThumbnail" src="https://github.com/user-attachments/assets/5853c3b8-6e30-4952-9f07-cd36317a5123" />| NASCAR NEXT GEN Toyota Camry | **Completed!**
