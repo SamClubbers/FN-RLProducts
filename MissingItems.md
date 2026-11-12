@@ -66,8 +66,6 @@
 |<img width="80" height="80" alt="body_raddish_tier1_TThumbnail" src="https://github.com/user-attachments/assets/f4d63b67-4bf4-4743-b89c-583711f6a6c1" />| Tyranno | - 2 Decals
 |<img width="80" height="80" alt="body_Raddish_tier2_TThumbnail" src="https://github.com/user-attachments/assets/1870e9bb-921c-41a2-bfd9-bf916d8022a5" />| Tyranno GXT | - 14 Decals
 |<img width="80" height="80" alt="Body_Venom_TThumbnail" src="https://github.com/user-attachments/assets/ce713bb1-88ce-4fee-b2d9-cfd2d5feaae3" />| Venom | - 1 Decal
-|<img width="80" height="80" alt="Body_Dub_T1_TThumbnail" src="https://github.com/user-attachments/assets/7e48433f-9c41-4ef6-b024-9b42b4617113" />| Volkswagen Golf GTI | - 7 Decals
-|<img width="80" height="80" alt="Body_Dub_T2_TThumbnail" src="https://github.com/user-attachments/assets/6eb47394-ac5b-4d21-ba90-ad1dd5c7a102" />| Volkswagen Golf GTI RLE | - 7 Decals
 |<img width="80" height="80" alt="body_whiplash_TThumbnail" src="https://github.com/user-attachments/assets/b4e6d2ba-d8d7-4504-9a6e-3f4a8796f2b7" />| Whiplash | - Carbody<br>- 4 Decals
 |<img width="80" height="80" alt="Body_Torch_TThumbnail" src="https://github.com/user-attachments/assets/93aae2ff-afc1-4ce1-ab5c-4757ba53ba3c" />| X-Devil | - 2 Decals
 
@@ -220,6 +218,8 @@
 |<img width="80" height="80" alt="body_twinzer_TThumbnail" src="https://github.com/user-attachments/assets/4df19f34-50d2-4ae7-8b46-509e844bed77" />| Twinzer | **Completed!**
 |<img width="80" height="80" alt="Body_Brick_TThumbnail" src="https://github.com/user-attachments/assets/2f0e783f-5e1e-416e-a9ea-09df8c110bca" />| Tygris | **Completed!**
 |<img width="80" height="80" alt="Body_Pickle_TThumbnail" src="https://github.com/user-attachments/assets/6caa0845-8aa1-48f5-8522-aae4ffebfd78" />| Void Burn | **Completed!**
+|<img width="80" height="80" alt="Body_Dub_T1_TThumbnail" src="https://github.com/user-attachments/assets/7e48433f-9c41-4ef6-b024-9b42b4617113" />| Volkswagen Golf GTI | **Completed!**
+|<img width="80" height="80" alt="Body_Dub_T2_TThumbnail" src="https://github.com/user-attachments/assets/6eb47394-ac5b-4d21-ba90-ad1dd5c7a102" />| Volkswagen Golf GTI RLE | **Completed!**
 |<img width="80" height="80" alt="Body_Gilliam_TThumbnail" src="https://github.com/user-attachments/assets/1ef36f17-20e4-4e2c-809f-a3c7eeeca05c" />| Vulcan | **Completed!**
 |<img width="80" height="80" alt="Body_Levain_TThumbnail" src="https://github.com/user-attachments/assets/c700ff9c-6a0c-4f80-a70f-1ea809fd9190" />| Werewolf | **Completed!**
 |<img width="80" height="80" alt="Body_Torch2_TThumbnail" src="https://github.com/user-attachments/assets/bd147ed6-6b13-42c1-b816-e4dc494fb0c2" />| X-Devil MK2 | **Completed!**
