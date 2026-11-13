@@ -1,7 +1,7 @@
 ## RL Cars Not Yet in FN
 
 - This is a list tracking every car that hasn’t yet transferred from Rocket League to Fortnite
-- There are currently 86 cars that have not transferred yet (63, excluding tier variants)
+- There are currently 84 cars that have not transferred yet (62, excluding tier variants)
 
 
 <details>
@@ -77,8 +77,6 @@
 |<img width="80" height="80" alt="Body_Kusanagi_T3_TThumbnail" src="https://github.com/user-attachments/assets/86631ca6-4f76-4d48-aabb-4268d8324b5d" />| Ronin GXT | Body_Kusanagi_T3
 |<img width="80" height="80" alt="body_raddish_tier1_TThumbnail" src="https://github.com/user-attachments/assets/75e484ca-8924-443a-bbb7-51f283fef3e2" />| Tyranno | Body_Raddish_Tier1
 |<img width="80" height="80" alt="body_Raddish_tier2_TThumbnail" src="https://github.com/user-attachments/assets/c10bb2e4-1ad7-44ad-9078-c5d31e735023" />| Tyranno GXT | Body_Raddish_Tier2
-|<img width="80" height="80" alt="Body_Dub_T1_TThumbnail" src="https://github.com/user-attachments/assets/a0221af0-7fb2-4f86-92d1-c2575ddf2b56" />| Volkswagen Golf GTI | Body_Dub_T1
-|<img width="80" height="80" alt="Body_Dub_T2_TThumbnail" src="https://github.com/user-attachments/assets/2f594a2e-a6d5-4bd8-a924-9df70b844391" />| Volkswagen Golf GTI RLE | Body_Dub_T2
 </details>
 
 
