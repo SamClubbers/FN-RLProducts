@@ -1,7 +1,7 @@
 ## RL Cars Not Yet in FN
 
 - This is a list tracking every car that hasn’t yet transferred from Rocket League to Fortnite
-- There are currently 84 cars that have not transferred yet (62, excluding tier variants)
+- There are currently 83 cars that have not transferred yet (61, excluding tier variants)
 
 
 <details>
@@ -21,7 +21,6 @@
 |<img width="80" height="80" alt="Body_Fracture_TThumbnail" src="https://github.com/user-attachments/assets/954456b7-fa04-4ae1-87df-03bc89281732" />| Formula 1 2021 | Body_Fracture
 |<img width="80" height="80" alt="body_cured_TThumbnail" src="https://github.com/user-attachments/assets/5dee87b8-c39e-4dd9-b7eb-bb542009acca" />| Formula 1 2022 | Body_Cured
 |<img width="80" height="80" alt="Body_Doggy_TThumbnail" src="https://github.com/user-attachments/assets/44c585b3-4708-455e-89d2-c74d8138fae2" />| Gazella GT | Body_Doggy
-|<img width="80" height="80" alt="Body_Maple_TThumbnail" src="https://github.com/user-attachments/assets/fa88002e-5bbd-4c49-a9ef-32060694329b" />| Jurassic Jeep Wrangler | Body_Maple
 |<img width="80" height="80" alt="Body_Pixie_TThumbnail" src="https://github.com/user-attachments/assets/9fb25e51-efee-4cf7-b4c9-a91f784446c7" />| Lightning McQueen | Body_Pixie
 |<img width="80" height="80" alt="body_diggy_TThumbnail" src="https://github.com/user-attachments/assets/9560262f-0cda-447f-bdf3-0c5448319147" />| MR11 | Body_Diggy
 |<img width="80" height="80" alt="Body_Oramac_TThumbnail" src="https://github.com/user-attachments/assets/18a547dd-742e-469c-bd69-6725b5e9eecf" />| NASCAR Chevrolet | Body_Oramac
